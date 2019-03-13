@@ -1,6 +1,7 @@
 import requests
 import bs4
 import json
+import os
 
 
 def grabSite(url):
@@ -16,6 +17,9 @@ def download_dataset():
 if __name__ == '__main__':
 	#res = grabSite(url)
 	#page = bs4.BeautifulSoup(res.text, 'lxml')
-	download_dataset()
+	if os.path.exists("data.json") == False:
+		download_dataset()
+	a = json.load(open("data.json"))
+	print a['games']
 
 
