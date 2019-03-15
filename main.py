@@ -14,12 +14,7 @@ def download_dataset():
 	with open('data.json', 'w') as fp:
 		json.dump(data, fp, indent=4)
 
-if __name__ == '__main__':
-	#res = grabSite(url)
-	#page = bs4.BeautifulSoup(res.text, 'lxml')
-	if os.path.exists("data.json") == False:
-		download_dataset()
-	a = json.load(open("data.json"))
+def calc_percent_claim(a):
 	for val in a['games']:
 		gameName = val['gameName']
 		for v in val['prizeTiers']:
@@ -29,3 +24,11 @@ if __name__ == '__main__':
 				print("{}% of people who win {} Prize Actually claim for {}".format(percent, prizeAmount, gameName))
 
 
+
+if __name__ == '__main__':
+	#res = grabSite(url)
+	#page = bs4.BeautifulSoup(res.text, 'lxml')
+	if os.path.exists("data.json") == False:
+		download_dataset()
+	a = json.load(open("data.json"))
+	calc_percent_claim(a)
