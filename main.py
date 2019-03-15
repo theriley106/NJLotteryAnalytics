@@ -20,6 +20,12 @@ if __name__ == '__main__':
 	if os.path.exists("data.json") == False:
 		download_dataset()
 	a = json.load(open("data.json"))
-	print a['games']
+	for val in a['games']:
+		gameName = val['gameName']
+		for v in val['prizeTiers']:
+			prizeAmount = v['prizeDescription']
+			percent = (float(v['paidTickets']) / float(v['winningTickets'])) * 100
+			if v['prizeAmount'] > 50000 and v['winningTickets'] > 1:
+				print("{}% of people who win {} Prize Actually claim for {}".format(percent, prizeAmount, gameName))
 
 
