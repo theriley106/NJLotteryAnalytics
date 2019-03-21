@@ -17,6 +17,7 @@ def play_ticket(gameId):
 	for ticketTypes in db[gameId]['prizeTiers']:
 		if lotteryNum > prevNum and lotteryNum < (prevNum + ticketTypes['paidTickets']):
 			response['winning'] = True
+			ticketTypes['prizeAmount'] = ticketTypes['prizeAmount'] / 100
 			response['info'] = ticketTypes
 			ticketTypes['paidTickets']  = ticketTypes['paidTickets'] - 1
 			break
