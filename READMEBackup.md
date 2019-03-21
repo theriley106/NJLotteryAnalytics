@@ -1,10 +1,67 @@
+Table of contents
+=================
 
-### All Cash Millions
+<!--ts-->
+   * [Simulator API](#API)
+   * [Scratch Off Statistics](#scratch-off-statistics)
+<!--te-->
 
+# API
+
+To easily calculate the statistics in this repo, I made a REST API that allows you to "Simulate" the purchase of a New Jersey scratch off ticket.  After running *app.py*, you can send a GET request with the path of /api/<gameID> to "purchase" a ticket and see the result after scratching it off.
+
+### Example #1
+
+```bash
+curl http://127.0.0.1:8000/api/1325
+```
+
+Returns:
+
+```javascript
+{
+  "info": null,
+  "number": 3668652,
+  "success": true,
+  "ticketsLeft": 5561769,
+  "time": 1553128312,
+  "winning": false
+}
+```
+
+### Example #2
+
+```bash
+curl http://127.0.0.1:8000/api/1546
+```
+
+Returns:
+
+```javascript
+{
+    "info": {
+        "claimedTickets": 2,
+        "winningTickets": 824339,
+        "paidTickets": 56983,
+        "originalTierNumber": 1,
+        "tierType": 1,
+        "tierNumber": 1,
+        "prizeDescription": "$1",
+        "prizeAmount": 100
+    },
+    "success": true,
+    "number": 465418,
+    "winning": true,
+    "time": 1553128378,
+    "ticketsLeft": 6869592
+}
+```
+
+<h3 align="center">All Cash Millions</h3>
 <p align="center">
 <img src ="images/1325.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -21,12 +78,11 @@
 |$50,000.00 | 0.00027%|
 |$1,000,000.00 | 0.00005%|
 
-### Platinum Diamond Spectacular
-
+<h3 align="center">Platinum Diamond Spectacular</h3>
 <p align="center">
 <img src ="images/1364.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -42,12 +98,11 @@
 |$10,000.00 | 0.00158%|
 |$1,554,300.00 | 0.00004%|
 
-### $1,000,000 Spectacular
-
+<h3 align="center">$1,000,000 Spectacular</h3>
 <p align="center">
 <img src ="images/1368.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -64,12 +119,11 @@
 |$10,000.00 | 0.00038%|
 |$777,150.00 | 0.00003%|
 
-### $10K Blowout
-
+<h3 align="center">$10K Blowout</h3>
 <p align="center">
 <img src ="images/1385.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -84,12 +138,11 @@
 |$5,000.00 | 0.00192%|
 |$10,000.00 | 0.00202%|
 
-### Multiplier Mania
-
+<h3 align="center">Multiplier Mania</h3>
 <p align="center">
 <img src ="images/1390.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -104,12 +157,11 @@
 |$10,000.00 | 0.00059%|
 |$500,000.00 | 0.00008%|
 
-### Crossword
-
+<h3 align="center">Crossword</h3>
 <p align="center">
 <img src ="images/1394.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -122,12 +174,11 @@
 |$5,000.00 | 0.00015%|
 |$20,000.00 | 0.00013%|
 
-### Birthday Surprise
-
+<h3 align="center">Birthday Surprise</h3>
 <p align="center">
 <img src ="images/1395.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -144,12 +195,11 @@
 |$1,000.00 | 0.00051%|
 |$25,000.00 | 0.00008%|
 
-### Lucky 7s Doubler
-
+<h3 align="center">Lucky 7s Doubler</h3>
 <p align="center">
 <img src ="images/1398.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -164,12 +214,11 @@
 |$1,000.00 | 0.00078%|
 |$20,000.00 | 0.00004%|
 
-### Lucky 7s Tripler
-
+<h3 align="center">Lucky 7s Tripler</h3>
 <p align="center">
 <img src ="images/1399.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -186,12 +235,11 @@
 |$5,000.00 | 0.00102%|
 |$200,000.00 | 0.00003%|
 
-### Lucky 7s Multiplier
-
+<h3 align="center">Lucky 7s Multiplier</h3>
 <p align="center">
 <img src ="images/1400.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -209,12 +257,11 @@
 |$10,000.00 | 0.00007%|
 |$797,050.00 | 0.00007%|
 
-### Loteria
-
+<h3 align="center">Loteria</h3>
 <p align="center">
 <img src ="images/1401.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -231,12 +278,11 @@
 |$500.00 | 0.01552%|
 |$30,000.00 | 0.00007%|
 
-### Pocket Change
-
+<h3 align="center">Pocket Change</h3>
 <p align="center">
 <img src ="images/1404.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -249,12 +295,11 @@
 |$100.00 | 0.01814%|
 |$500.00 | 0.00070%|
 
-### Money Bags
-
+<h3 align="center">Money Bags</h3>
 <p align="center">
 <img src ="images/1405.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -270,12 +315,11 @@
 |$1,000.00 | 0.00040%|
 |$20,000.00 | 0.00008%|
 
-### Money Vault
-
+<h3 align="center">Money Vault</h3>
 <p align="center">
 <img src ="images/1406.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -292,12 +336,11 @@
 |$1,000.00 | 0.00129%|
 |$30,000.00 | 0.00005%|
 
-### $5,000,000 Fortune
-
+<h3 align="center">$5,000,000 Fortune</h3>
 <p align="center">
 <img src ="images/1407.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -315,12 +358,11 @@
 |$50,000.00 | 0.00012%|
 |$3,625,000.00 | 0.00003%|
 
-### $500 Money Madness
-
+<h3 align="center">$500 Money Madness</h3>
 <p align="center">
 <img src ="images/1408.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -334,12 +376,11 @@
 |$500.00 | 0.13373%|
 |$200,000.00 | 0.00006%|
 
-### Loteria
-
+<h3 align="center">Loteria</h3>
 <p align="center">
 <img src ="images/1409.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -356,12 +397,11 @@
 |$500.00 | 0.01590%|
 |$30,000.00 | 0.00007%|
 
-### Spring $50s
-
+<h3 align="center">Spring $50s</h3>
 <p align="center">
 <img src ="images/1410.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -377,12 +417,11 @@
 |$1,000.00 | 0.00048%|
 |$20,000.00 | 0.00006%|
 
-### Black and Gold
-
+<h3 align="center">Black and Gold</h3>
 <p align="center">
 <img src ="images/1411.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -398,12 +437,11 @@
 |$5,000.00 | 0.00058%|
 |$200,000.00 | 0.00003%|
 
-### Super Crossword
-
+<h3 align="center">Super Crossword</h3>
 <p align="center">
 <img src ="images/1412.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -419,12 +457,11 @@
 |$7,500.00 | 0.00029%|
 |$50,000.00 | 0.00011%|
 
-### Mega Crossword
-
+<h3 align="center">Mega Crossword</h3>
 <p align="center">
 <img src ="images/1413.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -442,12 +479,11 @@
 |$50,000.00 | 0.00063%|
 |$500,000.00 | 0.00013%|
 
-### Hot Spot Bingo
-
+<h3 align="center">Hot Spot Bingo</h3>
 <p align="center">
 <img src ="images/1414.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -465,12 +501,11 @@
 |$30,000.00 | 0.00005%|
 |$100,000.00 | 0.00007%|
 
-### $250,000 Crossword
-
+<h3 align="center">$250,000 Crossword</h3>
 <p align="center">
 <img src ="images/1415.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -489,12 +524,11 @@
 |$20,000.00 | 0.00027%|
 |$250,000.00 | 0.00016%|
 
-### Lucky Catch
-
+<h3 align="center">Lucky Catch</h3>
 <p align="center">
 <img src ="images/1416.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -510,12 +544,11 @@
 |$2,000.00 | 0.00050%|
 |$20,000.00 | 0.00007%|
 
-### Lady Luck
-
+<h3 align="center">Lady Luck</h3>
 <p align="center">
 <img src ="images/1417.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -532,12 +565,11 @@
 |$5,000.00 | 0.00047%|
 |$250,000.00 | 0.00005%|
 
-### $250,000 Crossword
-
+<h3 align="center">$250,000 Crossword</h3>
 <p align="center">
 <img src ="images/1418.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -556,12 +588,11 @@
 |$20,000.00 | 0.00028%|
 |$250,000.00 | 0.00017%|
 
-### Big Money Spectacular
-
+<h3 align="center">Big Money Spectacular</h3>
 <p align="center">
 <img src ="images/1419.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -581,12 +612,11 @@
 |$5,000.00 | 0.00002%|
 |$30,000.00 | 0.00004%|
 
-### Win For Life
-
+<h3 align="center">Win For Life</h3>
 <p align="center">
 <img src ="images/1420.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -604,12 +634,11 @@
 |$5,000.00 | 0.00013%|
 |$1,380,000.00 | 0.00002%|
 
-### Super Crossword
-
+<h3 align="center">Super Crossword</h3>
 <p align="center">
 <img src ="images/1421.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -625,12 +654,11 @@
 |$7,500.00 | 0.00029%|
 |$50,000.00 | 0.00009%|
 
-### 100X The Bucks
-
+<h3 align="center">100X The Bucks</h3>
 <p align="center">
 <img src ="images/1422.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -646,12 +674,11 @@
 |$10,000.00 | 0.00091%|
 |$1,458,000.00 | 0.00004%|
 
-### Double $$
-
+<h3 align="center">Double $$</h3>
 <p align="center">
 <img src ="images/1423.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -666,12 +693,11 @@
 |$500.00 | 0.00110%|
 |$2,000.00 | 0.00006%|
 
-### Liberty Bill$
-
+<h3 align="center">Liberty Bill$</h3>
 <p align="center">
 <img src ="images/1424.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -686,12 +712,11 @@
 |$1,500.00 | 0.00048%|
 |$20,000.00 | 0.00007%|
 
-### All Cash Club
-
+<h3 align="center">All Cash Club</h3>
 <p align="center">
 <img src ="images/1425.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -704,12 +729,11 @@
 |$200.00 | 0.06194%|
 |$250.00 | 0.04128%|
 
-### Birthday Surprise
-
+<h3 align="center">Birthday Surprise</h3>
 <p align="center">
 <img src ="images/1426.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -726,12 +750,11 @@
 |$1,000.00 | 0.00054%|
 |$25,000.00 | 0.00008%|
 
-### Super Crossword
-
+<h3 align="center">Super Crossword</h3>
 <p align="center">
 <img src ="images/1427.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -747,12 +770,11 @@
 |$7,500.00 | 0.00025%|
 |$50,000.00 | 0.00009%|
 
-### Cash In A Flash
-
+<h3 align="center">Cash In A Flash</h3>
 <p align="center">
 <img src ="images/1428.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -764,12 +786,11 @@
 |$200.00 | 0.24232%|
 |$500.00 | 0.04832%|
 
-### Double Match
-
+<h3 align="center">Double Match</h3>
 <p align="center">
 <img src ="images/1429.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -786,12 +807,11 @@
 |$2,000.00 | 0.00032%|
 |$20,000.00 | 0.00008%|
 
-### Power Play Crossword
-
+<h3 align="center">Power Play Crossword</h3>
 <p align="center">
 <img src ="images/1430.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -814,12 +834,11 @@
 |$5,000.00 | 0.00032%|
 |$30,000.00 | 0.00011%|
 
-### Super Casino
-
+<h3 align="center">Super Casino</h3>
 <p align="center">
 <img src ="images/1431.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -834,12 +853,11 @@
 |$2,000.00 | 0.00494%|
 |$150,000.00 | 0.00005%|
 
-### $500,000 Riches
-
+<h3 align="center">$500,000 Riches</h3>
 <p align="center">
 <img src ="images/1432.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -855,12 +873,11 @@
 |$5,000.00 | 0.00100%|
 |$500,000.00 | 0.00005%|
 
-### Big Money Spectacular
-
+<h3 align="center">Big Money Spectacular</h3>
 <p align="center">
 <img src ="images/1433.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -880,12 +897,11 @@
 |$5,000.00 | 0.00002%|
 |$30,000.00 | 0.00004%|
 
-### Instant Bingo
-
+<h3 align="center">Instant Bingo</h3>
 <p align="center">
 <img src ="images/1434.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -905,12 +921,11 @@
 |$1,000.00 | 0.00018%|
 |$15,000.00 | 0.00017%|
 
-### Sizzlin Hot 7s
-
+<h3 align="center">Sizzlin Hot 7s</h3>
 <p align="center">
 <img src ="images/1435.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -926,12 +941,11 @@
 |$500.00 | 0.00282%|
 |$17,777.00 | 0.00004%|
 
-### High Card Poker
-
+<h3 align="center">High Card Poker</h3>
 <p align="center">
 <img src ="images/1436.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -945,12 +959,11 @@
 |$2,500.00 | 0.00002%|
 |$150,000.00 | 0.00000%|
 
-### $200 Million Cash Bonanza
-
+<h3 align="center">$200 Million Cash Bonanza</h3>
 <p align="center">
 <img src ="images/1437.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -966,12 +979,11 @@
 |$50,000.00 | 0.00006%|
 |$3,679,200.00 | 0.00002%|
 
-### Crossword
-
+<h3 align="center">Crossword</h3>
 <p align="center">
 <img src ="images/1438.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -984,12 +996,11 @@
 |$5,000.00 | 0.00013%|
 |$20,000.00 | 0.00013%|
 
-### Pocket Change
-
+<h3 align="center">Pocket Change</h3>
 <p align="center">
 <img src ="images/1439.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1002,12 +1013,11 @@
 |$100.00 | 0.01827%|
 |$500.00 | 0.00066%|
 
-### Instant Bingo
-
+<h3 align="center">Instant Bingo</h3>
 <p align="center">
 <img src ="images/1440.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1027,12 +1037,11 @@
 |$1,000.00 | 0.00018%|
 |$15,000.00 | 0.00013%|
 
-### 5x The Bucks
-
+<h3 align="center">5x The Bucks</h3>
 <p align="center">
 <img src ="images/1441.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1049,12 +1058,11 @@
 |$500.00 | 0.00078%|
 |$10,000.00 | 0.00010%|
 
-### 10x The Bucks
-
+<h3 align="center">10x The Bucks</h3>
 <p align="center">
 <img src ="images/1442.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1069,12 +1077,11 @@
 |$1,000.00 | 0.00074%|
 |$20,000.00 | 0.00005%|
 
-### 20x The Bucks
-
+<h3 align="center">20x The Bucks</h3>
 <p align="center">
 <img src ="images/1443.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1090,12 +1097,11 @@
 |$5,000.00 | 0.00158%|
 |$200,000.00 | 0.00007%|
 
-### 50x The Bucks
-
+<h3 align="center">50x The Bucks</h3>
 <p align="center">
 <img src ="images/1444.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1110,12 +1116,11 @@
 |$10,000.00 | 0.00020%|
 |$737,400.00 | 0.00001%|
 
-### Hit $100!
-
+<h3 align="center">Hit $100!</h3>
 <p align="center">
 <img src ="images/1445.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1130,12 +1135,11 @@
 |$1,000.00 | 0.00108%|
 |$20,000.00 | 0.00006%|
 
-### Diamonds and Dollars
-
+<h3 align="center">Diamonds and Dollars</h3>
 <p align="center">
 <img src ="images/1446.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1151,12 +1155,11 @@
 |$10,000.00 | 0.00043%|
 |$200,000.00 | 0.00005%|
 
-### Cash Bash
-
+<h3 align="center">Cash Bash</h3>
 <p align="center">
 <img src ="images/1447.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1168,12 +1171,11 @@
 |$200.00 | 0.22788%|
 |$500.00 | 0.04593%|
 
-### Crossword
-
+<h3 align="center">Crossword</h3>
 <p align="center">
 <img src ="images/1448.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1186,12 +1188,11 @@
 |$5,000.00 | 0.00015%|
 |$20,000.00 | 0.00014%|
 
-### Holiday Sparkle
-
+<h3 align="center">Holiday Sparkle</h3>
 <p align="center">
 <img src ="images/1449.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1206,12 +1207,11 @@
 |$500.00 | 0.00067%|
 |$2,000.00 | 0.00009%|
 
-### Holiday Lucky Times 10
-
+<h3 align="center">Holiday Lucky Times 10</h3>
 <p align="center">
 <img src ="images/1450.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1227,12 +1227,11 @@
 |$1,000.00 | 0.00036%|
 |$20,000.00 | 0.00010%|
 
-### Holiday Spectacular
-
+<h3 align="center">Holiday Spectacular</h3>
 <p align="center">
 <img src ="images/1451.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1246,12 +1245,11 @@
 |$5,000.00 | 0.00069%|
 |$200,000.00 | 0.00005%|
 
-### $10,000 Bonus
-
+<h3 align="center">$10,000 Bonus</h3>
 <p align="center">
 <img src ="images/1452.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1266,12 +1264,11 @@
 |$5,000.00 | 0.00115%|
 |$10,000.00 | 0.00334%|
 
-### $250,000 Crossword
-
+<h3 align="center">$250,000 Crossword</h3>
 <p align="center">
 <img src ="images/1453.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1290,12 +1287,11 @@
 |$20,000.00 | 0.00028%|
 |$250,000.00 | 0.00011%|
 
-### $150,000 Poker
-
+<h3 align="center">$150,000 Poker</h3>
 <p align="center">
 <img src ="images/1455.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1309,12 +1305,11 @@
 |$2,500.00 | 0.00119%|
 |$150,000.00 | 0.00007%|
 
-### Double Win
-
+<h3 align="center">Double Win</h3>
 <p align="center">
 <img src ="images/1456.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1335,12 +1330,11 @@
 |$1,000.00 | 0.00049%|
 |$20,000.00 | 0.00008%|
 
-### 7
-
+<h3 align="center">7</h3>
 <p align="center">
 <img src ="images/1457.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1356,12 +1350,11 @@
 |$10,000.00 | 0.00075%|
 |$200,000.00 | 0.00006%|
 
-### $250,000 Crossword
-
+<h3 align="center">$250,000 Crossword</h3>
 <p align="center">
 <img src ="images/1458.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1380,12 +1373,11 @@
 |$20,000.00 | 0.00027%|
 |$250,000.00 | 0.00016%|
 
-### Instant Cash Millionaire
-
+<h3 align="center">Instant Cash Millionaire</h3>
 <p align="center">
 <img src ="images/1459.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1402,12 +1394,11 @@
 |$50,000.00 | 0.00008%|
 |$1,000,000.00 | 0.00003%|
 
-### Big Money Spectacular
-
+<h3 align="center">Big Money Spectacular</h3>
 <p align="center">
 <img src ="images/1460.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1427,12 +1418,11 @@
 |$5,000.00 | 0.00003%|
 |$30,000.00 | 0.00002%|
 
-### Mega Crossword
-
+<h3 align="center">Mega Crossword</h3>
 <p align="center">
 <img src ="images/1461.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1450,12 +1440,11 @@
 |$50,000.00 | 0.00054%|
 |$500,000.00 | 0.00009%|
 
-### Big Money Spectacular
-
+<h3 align="center">Big Money Spectacular</h3>
 <p align="center">
 <img src ="images/1462.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1475,12 +1464,11 @@
 |$5,000.00 | 0.00003%|
 |$30,000.00 | 0.00003%|
 
-### $1,000,000 Spectacular
-
+<h3 align="center">$1,000,000 Spectacular</h3>
 <p align="center">
 <img src ="images/1463.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1497,12 +1485,11 @@
 |$10,000.00 | 0.00036%|
 |$752,300.00 | 0.00002%|
 
-### Loose Change
-
+<h3 align="center">Loose Change</h3>
 <p align="center">
 <img src ="images/1464.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1515,12 +1502,11 @@
 |$100.00 | 0.01717%|
 |$500.00 | 0.00067%|
 
-### Love To Win Doubler
-
+<h3 align="center">Love To Win Doubler</h3>
 <p align="center">
 <img src ="images/1465.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1536,12 +1522,11 @@
 |$1,000.00 | 0.00036%|
 |$20,000.00 | 0.00007%|
 
-### $500 Frenzy
-
+<h3 align="center">$500 Frenzy</h3>
 <p align="center">
 <img src ="images/1466.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1556,12 +1541,11 @@
 |$500.00 | 0.13364%|
 |$200,000.00 | 0.00007%|
 
-### $20,000 Gold Rush
-
+<h3 align="center">$20,000 Gold Rush</h3>
 <p align="center">
 <img src ="images/1468.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1575,12 +1559,11 @@
 |$1,000.00 | 0.00075%|
 |$20,000.00 | 0.00008%|
 
-### $200,000 Gold Rush
-
+<h3 align="center">$200,000 Gold Rush</h3>
 <p align="center">
 <img src ="images/1469.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1596,12 +1579,11 @@
 |$5,000.00 | 0.00048%|
 |$200,000.00 | 0.00005%|
 
-### $1,000,000 Gold Rush
-
+<h3 align="center">$1,000,000 Gold Rush</h3>
 <p align="center">
 <img src ="images/1470.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1617,12 +1599,11 @@
 |$10,000.00 | 0.00011%|
 |$752,300.00 | 0.00004%|
 
-### Blackout Bingo
-
+<h3 align="center">Blackout Bingo</h3>
 <p align="center">
 <img src ="images/1471.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1645,12 +1626,11 @@
 |$1,000.00 | 0.00121%|
 |$20,000.00 | 0.00011%|
 
-### Super Crossword
-
+<h3 align="center">Super Crossword</h3>
 <p align="center">
 <img src ="images/1472.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1666,12 +1646,11 @@
 |$7,500.00 | 0.00029%|
 |$50,000.00 | 0.00011%|
 
-### $250,000 Crossword
-
+<h3 align="center">$250,000 Crossword</h3>
 <p align="center">
 <img src ="images/1473.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1690,12 +1669,11 @@
 |$20,000.00 | 0.00027%|
 |$250,000.00 | 0.00016%|
 
-### Backstage Pass To Cash
-
+<h3 align="center">Backstage Pass To Cash</h3>
 <p align="center">
 <img src ="images/1474.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1712,12 +1690,11 @@
 |$3,500.00 | 0.00006%|
 |$20,000.00 | 0.00002%|
 
-### Lucky Times 20
-
+<h3 align="center">Lucky Times 20</h3>
 <p align="center">
 <img src ="images/1475.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1734,12 +1711,11 @@
 |$5,000.00 | 0.00066%|
 |$200,000.00 | 0.00005%|
 
-### Dazzling Diamond Spectacular
-
+<h3 align="center">Dazzling Diamond Spectacular</h3>
 <p align="center">
 <img src ="images/1476.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1754,12 +1730,11 @@
 |$10,000.00 | 0.00115%|
 |$1,472,200.00 | 0.00003%|
 
-### Super Crossword
-
+<h3 align="center">Super Crossword</h3>
 <p align="center">
 <img src ="images/1477.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1775,12 +1750,11 @@
 |$7,500.00 | 0.00029%|
 |$50,000.00 | 0.00011%|
 
-### $250,000 Crossword
-
+<h3 align="center">$250,000 Crossword</h3>
 <p align="center">
 <img src ="images/1478.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1799,12 +1773,11 @@
 |$20,000.00 | 0.00028%|
 |$250,000.00 | 0.00017%|
 
-### Fast Money
-
+<h3 align="center">Fast Money</h3>
 <p align="center">
 <img src ="images/1479.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1819,12 +1792,11 @@
 |$1,000.00 | 0.00070%|
 |$20,000.00 | 0.00004%|
 
-### Loteria
-
+<h3 align="center">Loteria</h3>
 <p align="center">
 <img src ="images/1480.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1841,12 +1813,11 @@
 |$500.00 | 0.01542%|
 |$30,000.00 | 0.00004%|
 
-### High Card Poker
-
+<h3 align="center">High Card Poker</h3>
 <p align="center">
 <img src ="images/1481.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1860,24 +1831,22 @@
 |$2,500.00 | 0.00073%|
 |$150,000.00 | 0.00006%|
 
-### Jersey Cash Blowout
-
+<h3 align="center">Jersey Cash Blowout</h3>
 <p align="center">
 <img src ="images/1482.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
 |$50.00 | 4.97749%|
 |$100.00 | 2.49346%|
 
-### Pink Diamond Bingo
-
+<h3 align="center">Pink Diamond Bingo</h3>
 <p align="center">
 <img src ="images/1483.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1895,12 +1864,11 @@
 |$30,000.00 | 0.00006%|
 |$100,000.00 | 0.00002%|
 
-### Ruby Red Riches
-
+<h3 align="center">Ruby Red Riches</h3>
 <p align="center">
 <img src ="images/1484.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1915,12 +1883,11 @@
 |$5,000.00 | 0.00042%|
 |$200,000.00 | 0.00005%|
 
-### $5,000,000 Lucky 7s
-
+<h3 align="center">$5,000,000 Lucky 7s</h3>
 <p align="center">
 <img src ="images/1485.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1936,12 +1903,11 @@
 |$70,000.00 | 0.00009%|
 |$3,654,400.00 | 0.00001%|
 
-### Big Money Spectacular
-
+<h3 align="center">Big Money Spectacular</h3>
 <p align="center">
 <img src ="images/1486.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1961,12 +1927,11 @@
 |$5,000.00 | 0.00003%|
 |$30,000.00 | 0.00004%|
 
-### Summer Lucky Times 10
-
+<h3 align="center">Summer Lucky Times 10</h3>
 <p align="center">
 <img src ="images/1487.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1982,12 +1947,11 @@
 |$1,000.00 | 0.00039%|
 |$20,000.00 | 0.00009%|
 
-### Wild Time Multiplier
-
+<h3 align="center">Wild Time Multiplier</h3>
 <p align="center">
 <img src ="images/1488.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2002,12 +1966,11 @@
 |$2,500.00 | 0.00320%|
 |$150,000.00 | 0.00005%|
 
-### Hot Riches
-
+<h3 align="center">Hot Riches</h3>
 <p align="center">
 <img src ="images/1489.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2024,12 +1987,11 @@
 |$10,000.00 | 0.00016%|
 |$500,000.00 | 0.00007%|
 
-### Big Money Spectacular
-
+<h3 align="center">Big Money Spectacular</h3>
 <p align="center">
 <img src ="images/1490.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2049,12 +2011,11 @@
 |$5,000.00 | 0.00003%|
 |$30,000.00 | 0.00003%|
 
-### Win For Life
-
+<h3 align="center">Win For Life</h3>
 <p align="center">
 <img src ="images/1491.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2072,12 +2033,11 @@
 |$5,000.00 | 0.00012%|
 |$1,100,000.00 | 0.00002%|
 
-### Million Dollar Multiplier
-
+<h3 align="center">Million Dollar Multiplier</h3>
 <p align="center">
 <img src ="images/1492.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2091,12 +2051,11 @@
 |$5,000.00 | 0.00024%|
 |$711,700.00 | 0.00004%|
 
-### $250,000 Crossword
-
+<h3 align="center">$250,000 Crossword</h3>
 <p align="center">
 <img src ="images/1493.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2115,12 +2074,11 @@
 |$20,000.00 | 0.00027%|
 |$250,000.00 | 0.00016%|
 
-### Loose Change
-
+<h3 align="center">Loose Change</h3>
 <p align="center">
 <img src ="images/1494.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2133,12 +2091,11 @@
 |$100.00 | 0.01775%|
 |$500.00 | 0.00073%|
 
-### Crossword
-
+<h3 align="center">Crossword</h3>
 <p align="center">
 <img src ="images/1495.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2151,12 +2108,11 @@
 |$5,000.00 | 0.00016%|
 |$20,000.00 | 0.00014%|
 
-### Super Tic Tac Toe
-
+<h3 align="center">Super Tic Tac Toe</h3>
 <p align="center">
 <img src ="images/1496.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2173,12 +2129,11 @@
 |$1,000.00 | 0.00306%|
 |$30,000.00 | 0.00006%|
 
-### Lady Luck Bonus
-
+<h3 align="center">Lady Luck Bonus</h3>
 <p align="center">
 <img src ="images/1497.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2194,12 +2149,11 @@
 |$5,000.00 | 0.00048%|
 |$200,000.00 | 0.00004%|
 
-### $250,000 Crossword
-
+<h3 align="center">$250,000 Crossword</h3>
 <p align="center">
 <img src ="images/1498.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2218,12 +2172,11 @@
 |$20,000.00 | 0.00027%|
 |$250,000.00 | 0.00011%|
 
-### Crossword
-
+<h3 align="center">Crossword</h3>
 <p align="center">
 <img src ="images/1499.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2236,12 +2189,11 @@
 |$5,000.00 | 0.00007%|
 |$20,000.00 | 0.00006%|
 
-### Money Roll
-
+<h3 align="center">Money Roll</h3>
 <p align="center">
 <img src ="images/1500.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2256,12 +2208,11 @@
 |$1,000.00 | 0.00026%|
 |$20,000.00 | 0.00008%|
 
-### Bingo Times 10
-
+<h3 align="center">Bingo Times 10</h3>
 <p align="center">
 <img src ="images/1501.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2280,12 +2231,11 @@
 |$50,000.00 | 0.00009%|
 |$100,000.00 | 0.00007%|
 
-### Money Match
-
+<h3 align="center">Money Match</h3>
 <p align="center">
 <img src ="images/1502.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2301,12 +2251,11 @@
 |$5,000.00 | 0.00029%|
 |$200,000.00 | 0.00002%|
 
-### $20,000 Lucky 7s
-
+<h3 align="center">$20,000 Lucky 7s</h3>
 <p align="center">
 <img src ="images/1503.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2321,12 +2270,11 @@
 |$1,000.00 | 0.00143%|
 |$20,000.00 | 0.00004%|
 
-### $200,000 Lucky 7s
-
+<h3 align="center">$200,000 Lucky 7s</h3>
 <p align="center">
 <img src ="images/1504.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2341,12 +2289,11 @@
 |$5,000.00 | 0.00064%|
 |$200,000.00 | 0.00003%|
 
-### $1,000,000 Lucky 7s
-
+<h3 align="center">$1,000,000 Lucky 7s</h3>
 <p align="center">
 <img src ="images/1505.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2361,12 +2308,11 @@
 |$10,000.00 | 0.00025%|
 |$720,100.00 | 0.00000%|
 
-### $2,000,000 Lucky 7s
-
+<h3 align="center">$2,000,000 Lucky 7s</h3>
 <p align="center">
 <img src ="images/1506.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2380,12 +2326,11 @@
 |$10,000.00 | 0.00028%|
 |$1,440,100.00 | 0.00001%|
 
-### Loose Change
-
+<h3 align="center">Loose Change</h3>
 <p align="center">
 <img src ="images/1507.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2398,12 +2343,11 @@
 |$100.00 | 0.01759%|
 |$500.00 | 0.00075%|
 
-### Bingo Plus
-
+<h3 align="center">Bingo Plus</h3>
 <p align="center">
 <img src ="images/1508.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2423,12 +2367,11 @@
 |$1,000.00 | 0.00090%|
 |$20,000.00 | 0.00010%|
 
-### Super Crossword
-
+<h3 align="center">Super Crossword</h3>
 <p align="center">
 <img src ="images/1509.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2444,12 +2387,11 @@
 |$7,500.00 | 0.00027%|
 |$50,000.00 | 0.00011%|
 
-### The Voice
-
+<h3 align="center">The Voice</h3>
 <p align="center">
 <img src ="images/1510.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2464,12 +2406,11 @@
 |$2,000.00 | 0.00097%|
 |$100,000.00 | 0.00002%|
 
-### Loose Change
-
+<h3 align="center">Loose Change</h3>
 <p align="center">
 <img src ="images/1511.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2482,12 +2423,11 @@
 |$100.00 | 0.01690%|
 |$500.00 | 0.00075%|
 
-### $500 Frenzy
-
+<h3 align="center">$500 Frenzy</h3>
 <p align="center">
 <img src ="images/1512.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2502,12 +2442,11 @@
 |$500.00 | 0.11768%|
 |$200,000.00 | 0.00004%|
 
-### Cash Blast
-
+<h3 align="center">Cash Blast</h3>
 <p align="center">
 <img src ="images/1513.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2519,12 +2458,11 @@
 |$200.00 | 0.17703%|
 |$500.00 | 0.03543%|
 
-### Holiday Loose Change
-
+<h3 align="center">Holiday Loose Change</h3>
 <p align="center">
 <img src ="images/1514.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2537,12 +2475,11 @@
 |$100.00 | 0.01656%|
 |$500.00 | 0.00071%|
 
-### Holiday Lucky Times 10
-
+<h3 align="center">Holiday Lucky Times 10</h3>
 <p align="center">
 <img src ="images/1515.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2558,12 +2495,11 @@
 |$1,000.00 | 0.00030%|
 |$20,000.00 | 0.00008%|
 
-### Holiday Bucks
-
+<h3 align="center">Holiday Bucks</h3>
 <p align="center">
 <img src ="images/1516.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2577,12 +2513,11 @@
 |$5,000.00 | 0.00055%|
 |$200,000.00 | 0.00006%|
 
-### $1,000,000 Spectacular
-
+<h3 align="center">$1,000,000 Spectacular</h3>
 <p align="center">
 <img src ="images/1517.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2598,12 +2533,11 @@
 |$10,000.00 | 0.00023%|
 |$752,300.00 | 0.00000%|
 
-### Fast Cash
-
+<h3 align="center">Fast Cash</h3>
 <p align="center">
 <img src ="images/1518.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2618,12 +2552,11 @@
 |$1,000.00 | 0.00054%|
 |$20,000.00 | 0.00004%|
 
-### $3,000,000 Cash Out
-
+<h3 align="center">$3,000,000 Cash Out</h3>
 <p align="center">
 <img src ="images/1519.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2638,12 +2571,11 @@
 |$50,000.00 | 0.00003%|
 |$2,158,000.00 | 0.00001%|
 
-### Money Multiplier
-
+<h3 align="center">Money Multiplier</h3>
 <p align="center">
 <img src ="images/1520.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2657,12 +2589,11 @@
 |$1,000.00 | 0.00034%|
 |$20,000.00 | 0.00002%|
 
-### Loose Change
-
+<h3 align="center">Loose Change</h3>
 <p align="center">
 <img src ="images/1521.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2675,12 +2606,11 @@
 |$100.00 | 0.01565%|
 |$500.00 | 0.00060%|
 
-### Diamonds and Dollars
-
+<h3 align="center">Diamonds and Dollars</h3>
 <p align="center">
 <img src ="images/1522.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2696,12 +2626,11 @@
 |$10,000.00 | 0.00008%|
 |$200,000.00 | 0.00000%|
 
-### $150K Poker Riches
-
+<h3 align="center">$150K Poker Riches</h3>
 <p align="center">
 <img src ="images/1523.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2715,12 +2644,11 @@
 |$2,500.00 | 0.00028%|
 |$150,000.00 | 0.00002%|
 
-### Birthday Surprise
-
+<h3 align="center">Birthday Surprise</h3>
 <p align="center">
 <img src ="images/1524.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2737,12 +2665,11 @@
 |$1,000.00 | 0.00019%|
 |$25,000.00 | 0.00003%|
 
-### Loteria
-
+<h3 align="center">Loteria</h3>
 <p align="center">
 <img src ="images/1525.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2759,12 +2686,11 @@
 |$500.00 | 0.01053%|
 |$30,000.00 | 0.00004%|
 
-### Super Crossword
-
+<h3 align="center">Super Crossword</h3>
 <p align="center">
 <img src ="images/1526.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2780,12 +2706,11 @@
 |$7,500.00 | 0.00009%|
 |$50,000.00 | 0.00000%|
 
-### Mega Crossword
-
+<h3 align="center">Mega Crossword</h3>
 <p align="center">
 <img src ="images/1527.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2803,12 +2728,11 @@
 |$50,000.00 | 0.00000%|
 |$500,000.00 | 0.00000%|
 
-### $250,000 Crossword
-
+<h3 align="center">$250,000 Crossword</h3>
 <p align="center">
 <img src ="images/1528.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2827,12 +2751,11 @@
 |$20,000.00 | 0.00022%|
 |$250,000.00 | 0.00016%|
 
-### Win For Life!
-
+<h3 align="center">Win For Life!</h3>
 <p align="center">
 <img src ="images/1529.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2850,12 +2773,11 @@
 |$5,000.00 | 0.00000%|
 |$1,060,000.00 | 0.00000%|
 
-### $8,000,000 Copper Payout
-
+<h3 align="center">$8,000,000 Copper Payout</h3>
 <p align="center">
 <img src ="images/1530.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2869,12 +2791,11 @@
 |$500.00 | 0.00062%|
 |$20,000.00 | 0.00000%|
 
-### $18,000,000 Silver Payout
-
+<h3 align="center">$18,000,000 Silver Payout</h3>
 <p align="center">
 <img src ="images/1531.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2888,12 +2809,11 @@
 |$5,000.00 | 0.00005%|
 |$200,000.00 | 0.00000%|
 
-### $52,000,000 Gold Payout
-
+<h3 align="center">$52,000,000 Gold Payout</h3>
 <p align="center">
 <img src ="images/1532.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2908,12 +2828,11 @@
 |$10,000.00 | 0.00002%|
 |$713,400.00 | 0.00000%|
 
-### $90,000,000 Platinum Payout
-
+<h3 align="center">$90,000,000 Platinum Payout</h3>
 <p align="center">
 <img src ="images/1533.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2929,12 +2848,11 @@
 |$50,000.00 | 0.00000%|
 |$1,426,800.00 | 0.00000%|
 
-### Quick $50s
-
+<h3 align="center">Quick $50s</h3>
 <p align="center">
 <img src ="images/1534.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2948,12 +2866,11 @@
 |$1,000.00 | 0.00025%|
 |$20,000.00 | 0.00004%|
 
-### Super Money Multiplier
-
+<h3 align="center">Super Money Multiplier</h3>
 <p align="center">
 <img src ="images/1535.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2967,12 +2884,11 @@
 |$5,000.00 | 0.00000%|
 |$100,000.00 | 0.00000%|
 
-### Lucky Times 50
-
+<h3 align="center">Lucky Times 50</h3>
 <p align="center">
 <img src ="images/1536.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2986,12 +2902,11 @@
 |$10,000.00 | 0.00000%|
 |$695,900.00 | 0.00000%|
 
-### Bingo Bonus Square
-
+<h3 align="center">Bingo Bonus Square</h3>
 <p align="center">
 <img src ="images/1538.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -3009,12 +2924,11 @@
 |$30,000.00 | 0.00000%|
 |$100,000.00 | 0.00000%|
 
-### Big Money Spectacular
-
+<h3 align="center">Big Money Spectacular</h3>
 <p align="center">
 <img src ="images/1539.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -3034,12 +2948,11 @@
 |$5,000.00 | 0.00002%|
 |$30,000.00 | 0.00001%|
 
-### Money Roll
-
+<h3 align="center">Money Roll</h3>
 <p align="center">
 <img src ="images/1541.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -3054,12 +2967,11 @@
 |$1,000.00 | 0.00000%|
 |$20,000.00 | 0.00000%|
 
-### $250,000 Crossword
-
+<h3 align="center">$250,000 Crossword</h3>
 <p align="center">
 <img src ="images/1542.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -3078,12 +2990,11 @@
 |$20,000.00 | 0.00000%|
 |$250,000.00 | 0.00005%|
 
-### Double Dollar Bingo
-
+<h3 align="center">Double Dollar Bingo</h3>
 <p align="center">
 <img src ="images/1544.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -3105,12 +3016,11 @@
 |$1,000.00 | 0.00000%|
 |$20,000.00 | 0.00000%|
 
-### $500 Frenzy
-
+<h3 align="center">$500 Frenzy</h3>
 <p align="center">
 <img src ="images/1545.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -3125,12 +3035,11 @@
 |$500.00 | 0.00000%|
 |$200,000.00 | 0.00000%|
 
-### Loose Change
-
+<h3 align="center">Loose Change</h3>
 <p align="center">
 <img src ="images/1546.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -3143,12 +3052,11 @@
 |$100.00 | 0.00159%|
 |$500.00 | 0.00006%|
 
-### Fast Money
-
+<h3 align="center">Fast Money</h3>
 <p align="center">
 <img src ="images/1548.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
