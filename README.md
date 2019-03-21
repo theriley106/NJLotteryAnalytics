@@ -4,6 +4,64 @@ Table of contents
 <!--ts-->
    - [Simulator API](#API)
    - [Scratch Off Statistics](#scratch-off-statistics)
+<!--te-->
+
+# API
+
+To easily calculate the statistics in this repo, I made a REST API that allows you to "Simulate" the purchase of a New Jersey scratch off ticket.  After running *app.py*, you can send a GET request with the path of /api/<gameID> to "purchase" a ticket and see the result after scratching it off.
+
+### Example #1
+
+```bash
+curl http://127.0.0.1:8000/api/1325
+```
+
+Returns:
+
+```javascript
+{
+  "info": null,
+  "number": 3668652,
+  "success": true,
+  "ticketsLeft": 5561769,
+  "time": 1553128312,
+  "winning": false
+}
+```
+
+### Example #2
+
+```bash
+curl http://127.0.0.1:8000/api/1546
+```
+
+Returns:
+
+```javascript
+{
+    "info": {
+        "claimedTickets": 2,
+        "winningTickets": 824339,
+        "paidTickets": 56983,
+        "originalTierNumber": 1,
+        "tierType": 1,
+        "tierNumber": 1,
+        "prizeDescription": "$1",
+        "prizeAmount": 100
+    },
+    "success": true,
+    "number": 465418,
+    "winning": true,
+    "time": 1553128378,
+    "ticketsLeft": 6869592
+}
+```
+
+Stats Table of contents
+=================
+
+<!--ts-->
+- [Scratch Off Statistics](#scratch-off-statistics)
 		+ [All Cash Millions](#all-cash-millions---2000)
 		+ [Platinum Diamond Spectacular](#platinum-diamond-spectacular---2000)
 		+ [$1,000,000 Spectacular](#-1-000-000-spectacular---1000)
@@ -155,57 +213,6 @@ Table of contents
 		+ [Loose Change](#loose-change---100-5)
 		+ [Fast Money](#fast-money---200-1)
 <!--te-->
-
-# API
-
-To easily calculate the statistics in this repo, I made a REST API that allows you to "Simulate" the purchase of a New Jersey scratch off ticket.  After running *app.py*, you can send a GET request with the path of /api/<gameID> to "purchase" a ticket and see the result after scratching it off.
-
-### Example #1
-
-```bash
-curl http://127.0.0.1:8000/api/1325
-```
-
-Returns:
-
-```javascript
-{
-  "info": null,
-  "number": 3668652,
-  "success": true,
-  "ticketsLeft": 5561769,
-  "time": 1553128312,
-  "winning": false
-}
-```
-
-### Example #2
-
-```bash
-curl http://127.0.0.1:8000/api/1546
-```
-
-Returns:
-
-```javascript
-{
-    "info": {
-        "claimedTickets": 2,
-        "winningTickets": 824339,
-        "paidTickets": 56983,
-        "originalTierNumber": 1,
-        "tierType": 1,
-        "tierNumber": 1,
-        "prizeDescription": "$1",
-        "prizeAmount": 100
-    },
-    "success": true,
-    "number": 465418,
-    "winning": true,
-    "time": 1553128378,
-    "ticketsLeft": 6869592
-}
-```
 
 # Scratch Off Statistics
 
