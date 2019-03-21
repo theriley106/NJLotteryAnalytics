@@ -1,10 +1,68 @@
+Table of contents
+=================
+
+<!--ts-->
+   * [Simulator API](#API)
+   * [Scratch Off Statistics](#scratch-off-statistics)
+<!--te-->
+
+# API
+
+To easily calculate the statistics in this repo, I made a REST API that allows you to "Simulate" the purchase of a New Jersey scratch off ticket.  After running *app.py*, you can send a GET request with the path of /api/<gameID> to "purchase" a ticket and see the result after scratching it off.
+
+### Example #1
+
+```bash
+curl http://127.0.0.1:8000/api/1325
+```
+
+Returns:
+
+```javascript
+{
+  "info": null,
+  "number": 3668652,
+  "success": true,
+  "ticketsLeft": 5561769,
+  "time": 1553128312,
+  "winning": false
+}
+```
+
+### Example #2
+
+```bash
+curl http://127.0.0.1:8000/api/1546
+```
+
+Returns:
+
+```javascript
+{
+    "info": {
+        "claimedTickets": 2,
+        "winningTickets": 824339,
+        "paidTickets": 56983,
+        "originalTierNumber": 1,
+        "tierType": 1,
+        "tierNumber": 1,
+        "prizeDescription": "$1",
+        "prizeAmount": 100
+    },
+    "success": true,
+    "number": 465418,
+    "winning": true,
+    "time": 1553128378,
+    "ticketsLeft": 6869592
+}
+```
 
 ## All Cash Millions - $20.00
 
 <p align="center">
 <img src ="images/1325.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -26,7 +84,7 @@
 <p align="center">
 <img src ="images/1364.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -47,7 +105,7 @@
 <p align="center">
 <img src ="images/1368.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -69,7 +127,7 @@
 <p align="center">
 <img src ="images/1385.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -89,7 +147,7 @@
 <p align="center">
 <img src ="images/1390.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -109,7 +167,7 @@
 <p align="center">
 <img src ="images/1394.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -127,7 +185,7 @@
 <p align="center">
 <img src ="images/1395.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -149,7 +207,7 @@
 <p align="center">
 <img src ="images/1398.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -169,7 +227,7 @@
 <p align="center">
 <img src ="images/1399.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -191,7 +249,7 @@
 <p align="center">
 <img src ="images/1400.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -214,7 +272,7 @@
 <p align="center">
 <img src ="images/1401.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -236,7 +294,7 @@
 <p align="center">
 <img src ="images/1404.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -254,7 +312,7 @@
 <p align="center">
 <img src ="images/1405.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -275,7 +333,7 @@
 <p align="center">
 <img src ="images/1406.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -297,7 +355,7 @@
 <p align="center">
 <img src ="images/1407.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -320,7 +378,7 @@
 <p align="center">
 <img src ="images/1408.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -339,7 +397,7 @@
 <p align="center">
 <img src ="images/1409.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -361,7 +419,7 @@
 <p align="center">
 <img src ="images/1410.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -382,7 +440,7 @@
 <p align="center">
 <img src ="images/1411.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -403,7 +461,7 @@
 <p align="center">
 <img src ="images/1412.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -424,7 +482,7 @@
 <p align="center">
 <img src ="images/1413.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -447,7 +505,7 @@
 <p align="center">
 <img src ="images/1414.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -470,7 +528,7 @@
 <p align="center">
 <img src ="images/1415.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -494,7 +552,7 @@
 <p align="center">
 <img src ="images/1416.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -515,7 +573,7 @@
 <p align="center">
 <img src ="images/1417.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -537,7 +595,7 @@
 <p align="center">
 <img src ="images/1418.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -561,7 +619,7 @@
 <p align="center">
 <img src ="images/1419.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -586,7 +644,7 @@
 <p align="center">
 <img src ="images/1420.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -609,7 +667,7 @@
 <p align="center">
 <img src ="images/1421.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -630,7 +688,7 @@
 <p align="center">
 <img src ="images/1422.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -651,7 +709,7 @@
 <p align="center">
 <img src ="images/1423.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -671,7 +729,7 @@
 <p align="center">
 <img src ="images/1424.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -691,7 +749,7 @@
 <p align="center">
 <img src ="images/1425.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -709,7 +767,7 @@
 <p align="center">
 <img src ="images/1426.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -731,7 +789,7 @@
 <p align="center">
 <img src ="images/1427.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -752,7 +810,7 @@
 <p align="center">
 <img src ="images/1428.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -769,7 +827,7 @@
 <p align="center">
 <img src ="images/1429.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -791,7 +849,7 @@
 <p align="center">
 <img src ="images/1430.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -819,7 +877,7 @@
 <p align="center">
 <img src ="images/1431.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -839,7 +897,7 @@
 <p align="center">
 <img src ="images/1432.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -860,7 +918,7 @@
 <p align="center">
 <img src ="images/1433.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -885,7 +943,7 @@
 <p align="center">
 <img src ="images/1434.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -910,7 +968,7 @@
 <p align="center">
 <img src ="images/1435.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -931,7 +989,7 @@
 <p align="center">
 <img src ="images/1436.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -950,7 +1008,7 @@
 <p align="center">
 <img src ="images/1437.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -971,7 +1029,7 @@
 <p align="center">
 <img src ="images/1438.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -989,7 +1047,7 @@
 <p align="center">
 <img src ="images/1439.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1007,7 +1065,7 @@
 <p align="center">
 <img src ="images/1440.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1032,7 +1090,7 @@
 <p align="center">
 <img src ="images/1441.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1054,7 +1112,7 @@
 <p align="center">
 <img src ="images/1442.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1074,7 +1132,7 @@
 <p align="center">
 <img src ="images/1443.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1095,7 +1153,7 @@
 <p align="center">
 <img src ="images/1444.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1115,7 +1173,7 @@
 <p align="center">
 <img src ="images/1445.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1135,7 +1193,7 @@
 <p align="center">
 <img src ="images/1446.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1156,7 +1214,7 @@
 <p align="center">
 <img src ="images/1447.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1173,7 +1231,7 @@
 <p align="center">
 <img src ="images/1448.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1191,7 +1249,7 @@
 <p align="center">
 <img src ="images/1449.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1211,7 +1269,7 @@
 <p align="center">
 <img src ="images/1450.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1232,7 +1290,7 @@
 <p align="center">
 <img src ="images/1451.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1251,7 +1309,7 @@
 <p align="center">
 <img src ="images/1452.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1271,7 +1329,7 @@
 <p align="center">
 <img src ="images/1453.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1295,7 +1353,7 @@
 <p align="center">
 <img src ="images/1455.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1314,7 +1372,7 @@
 <p align="center">
 <img src ="images/1456.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1340,7 +1398,7 @@
 <p align="center">
 <img src ="images/1457.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1361,7 +1419,7 @@
 <p align="center">
 <img src ="images/1458.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1385,7 +1443,7 @@
 <p align="center">
 <img src ="images/1459.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1407,7 +1465,7 @@
 <p align="center">
 <img src ="images/1460.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1432,7 +1490,7 @@
 <p align="center">
 <img src ="images/1461.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1455,7 +1513,7 @@
 <p align="center">
 <img src ="images/1462.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1480,7 +1538,7 @@
 <p align="center">
 <img src ="images/1463.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1502,7 +1560,7 @@
 <p align="center">
 <img src ="images/1464.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1520,7 +1578,7 @@
 <p align="center">
 <img src ="images/1465.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1541,7 +1599,7 @@
 <p align="center">
 <img src ="images/1466.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1561,7 +1619,7 @@
 <p align="center">
 <img src ="images/1468.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1580,7 +1638,7 @@
 <p align="center">
 <img src ="images/1469.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1601,7 +1659,7 @@
 <p align="center">
 <img src ="images/1470.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1622,7 +1680,7 @@
 <p align="center">
 <img src ="images/1471.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1650,7 +1708,7 @@
 <p align="center">
 <img src ="images/1472.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1671,7 +1729,7 @@
 <p align="center">
 <img src ="images/1473.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1695,7 +1753,7 @@
 <p align="center">
 <img src ="images/1474.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1717,7 +1775,7 @@
 <p align="center">
 <img src ="images/1475.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1739,7 +1797,7 @@
 <p align="center">
 <img src ="images/1476.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1759,7 +1817,7 @@
 <p align="center">
 <img src ="images/1477.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1780,7 +1838,7 @@
 <p align="center">
 <img src ="images/1478.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1804,7 +1862,7 @@
 <p align="center">
 <img src ="images/1479.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1824,7 +1882,7 @@
 <p align="center">
 <img src ="images/1480.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1846,7 +1904,7 @@
 <p align="center">
 <img src ="images/1481.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1865,7 +1923,7 @@
 <p align="center">
 <img src ="images/1482.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1877,7 +1935,7 @@
 <p align="center">
 <img src ="images/1483.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1900,7 +1958,7 @@
 <p align="center">
 <img src ="images/1484.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1920,7 +1978,7 @@
 <p align="center">
 <img src ="images/1485.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1941,7 +1999,7 @@
 <p align="center">
 <img src ="images/1486.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1966,7 +2024,7 @@
 <p align="center">
 <img src ="images/1487.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -1987,7 +2045,7 @@
 <p align="center">
 <img src ="images/1488.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2007,7 +2065,7 @@
 <p align="center">
 <img src ="images/1489.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2029,7 +2087,7 @@
 <p align="center">
 <img src ="images/1490.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2054,7 +2112,7 @@
 <p align="center">
 <img src ="images/1491.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2077,7 +2135,7 @@
 <p align="center">
 <img src ="images/1492.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2096,7 +2154,7 @@
 <p align="center">
 <img src ="images/1493.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2120,7 +2178,7 @@
 <p align="center">
 <img src ="images/1494.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2138,7 +2196,7 @@
 <p align="center">
 <img src ="images/1495.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2156,7 +2214,7 @@
 <p align="center">
 <img src ="images/1496.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2178,7 +2236,7 @@
 <p align="center">
 <img src ="images/1497.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2199,7 +2257,7 @@
 <p align="center">
 <img src ="images/1498.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2223,7 +2281,7 @@
 <p align="center">
 <img src ="images/1499.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2241,7 +2299,7 @@
 <p align="center">
 <img src ="images/1500.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2261,7 +2319,7 @@
 <p align="center">
 <img src ="images/1501.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2285,7 +2343,7 @@
 <p align="center">
 <img src ="images/1502.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2306,7 +2364,7 @@
 <p align="center">
 <img src ="images/1503.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2326,7 +2384,7 @@
 <p align="center">
 <img src ="images/1504.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2346,7 +2404,7 @@
 <p align="center">
 <img src ="images/1505.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2366,7 +2424,7 @@
 <p align="center">
 <img src ="images/1506.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2385,7 +2443,7 @@
 <p align="center">
 <img src ="images/1507.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2403,7 +2461,7 @@
 <p align="center">
 <img src ="images/1508.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2428,7 +2486,7 @@
 <p align="center">
 <img src ="images/1509.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2449,7 +2507,7 @@
 <p align="center">
 <img src ="images/1510.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2469,7 +2527,7 @@
 <p align="center">
 <img src ="images/1511.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2487,7 +2545,7 @@
 <p align="center">
 <img src ="images/1512.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2507,7 +2565,7 @@
 <p align="center">
 <img src ="images/1513.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2524,7 +2582,7 @@
 <p align="center">
 <img src ="images/1514.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2542,7 +2600,7 @@
 <p align="center">
 <img src ="images/1515.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2563,7 +2621,7 @@
 <p align="center">
 <img src ="images/1516.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2582,7 +2640,7 @@
 <p align="center">
 <img src ="images/1517.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2603,7 +2661,7 @@
 <p align="center">
 <img src ="images/1518.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2623,7 +2681,7 @@
 <p align="center">
 <img src ="images/1519.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2643,7 +2701,7 @@
 <p align="center">
 <img src ="images/1520.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2662,7 +2720,7 @@
 <p align="center">
 <img src ="images/1521.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2680,7 +2738,7 @@
 <p align="center">
 <img src ="images/1522.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2701,7 +2759,7 @@
 <p align="center">
 <img src ="images/1523.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2720,7 +2778,7 @@
 <p align="center">
 <img src ="images/1524.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2742,7 +2800,7 @@
 <p align="center">
 <img src ="images/1525.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2764,7 +2822,7 @@
 <p align="center">
 <img src ="images/1526.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2785,7 +2843,7 @@
 <p align="center">
 <img src ="images/1527.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2808,7 +2866,7 @@
 <p align="center">
 <img src ="images/1528.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2832,7 +2890,7 @@
 <p align="center">
 <img src ="images/1529.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2855,7 +2913,7 @@
 <p align="center">
 <img src ="images/1530.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2874,7 +2932,7 @@
 <p align="center">
 <img src ="images/1531.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2893,7 +2951,7 @@
 <p align="center">
 <img src ="images/1532.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2913,7 +2971,7 @@
 <p align="center">
 <img src ="images/1533.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2934,7 +2992,7 @@
 <p align="center">
 <img src ="images/1534.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2953,7 +3011,7 @@
 <p align="center">
 <img src ="images/1535.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2972,7 +3030,7 @@
 <p align="center">
 <img src ="images/1536.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -2991,7 +3049,7 @@
 <p align="center">
 <img src ="images/1538.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -3014,7 +3072,7 @@
 <p align="center">
 <img src ="images/1539.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -3039,7 +3097,7 @@
 <p align="center">
 <img src ="images/1541.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -3059,7 +3117,7 @@
 <p align="center">
 <img src ="images/1542.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -3083,7 +3141,7 @@
 <p align="center">
 <img src ="images/1544.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -3110,7 +3168,7 @@
 <p align="center">
 <img src ="images/1545.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -3130,7 +3188,7 @@
 <p align="center">
 <img src ="images/1546.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -3148,7 +3206,7 @@
 <p align="center">
 <img src ="images/1548.png">
 </p>
-		
+
 
 |Prize|% Chance|
 | ------------- |:-------------:|
