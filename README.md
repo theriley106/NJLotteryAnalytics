@@ -57,7 +57,7 @@ Returns:
 }
 ```
 
-Stats Table of contents
+Lottery Ticket Table of Contents
 =================
 
 <!--ts-->
