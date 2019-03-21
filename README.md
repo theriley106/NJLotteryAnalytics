@@ -1,5 +1,5 @@
 
-### All Cash Millions
+### All Cash Millions | Price: $20.00
 
 <p align="center">
 <img src ="images/1325.png">
@@ -21,7 +21,7 @@
 |$50,000.00 | 0.00027%|
 |$1,000,000.00 | 0.00005%|
 
-### Platinum Diamond Spectacular
+### Platinum Diamond Spectacular | Price: $20.00
 
 <p align="center">
 <img src ="images/1364.png">
@@ -42,7 +42,7 @@
 |$10,000.00 | 0.00158%|
 |$1,554,300.00 | 0.00004%|
 
-### $1,000,000 Spectacular
+### $1,000,000 Spectacular | Price: $10.00
 
 <p align="center">
 <img src ="images/1368.png">
@@ -64,7 +64,7 @@
 |$10,000.00 | 0.00038%|
 |$777,150.00 | 0.00003%|
 
-### $10K Blowout
+### $10K Blowout | Price: $10.00
 
 <p align="center">
 <img src ="images/1385.png">
@@ -84,7 +84,7 @@
 |$5,000.00 | 0.00192%|
 |$10,000.00 | 0.00202%|
 
-### Multiplier Mania
+### Multiplier Mania | Price: $10.00
 
 <p align="center">
 <img src ="images/1390.png">
@@ -104,7 +104,7 @@
 |$10,000.00 | 0.00059%|
 |$500,000.00 | 0.00008%|
 
-### Crossword
+### Crossword | Price: $3.00
 
 <p align="center">
 <img src ="images/1394.png">
@@ -122,7 +122,7 @@
 |$5,000.00 | 0.00015%|
 |$20,000.00 | 0.00013%|
 
-### Birthday Surprise
+### Birthday Surprise | Price: $2.00
 
 <p align="center">
 <img src ="images/1395.png">
@@ -144,7 +144,7 @@
 |$1,000.00 | 0.00051%|
 |$25,000.00 | 0.00008%|
 
-### Lucky 7s Doubler
+### Lucky 7s Doubler | Price: $2.00
 
 <p align="center">
 <img src ="images/1398.png">
@@ -164,7 +164,7 @@
 |$1,000.00 | 0.00078%|
 |$20,000.00 | 0.00004%|
 
-### Lucky 7s Tripler
+### Lucky 7s Tripler | Price: $5.00
 
 <p align="center">
 <img src ="images/1399.png">
@@ -186,7 +186,7 @@
 |$5,000.00 | 0.00102%|
 |$200,000.00 | 0.00003%|
 
-### Lucky 7s Multiplier
+### Lucky 7s Multiplier | Price: $10.00
 
 <p align="center">
 <img src ="images/1400.png">
@@ -209,7 +209,7 @@
 |$10,000.00 | 0.00007%|
 |$797,050.00 | 0.00007%|
 
-### Loteria
+### Loteria | Price: $3.00
 
 <p align="center">
 <img src ="images/1401.png">
@@ -231,7 +231,7 @@
 |$500.00 | 0.01552%|
 |$30,000.00 | 0.00007%|
 
-### Pocket Change
+### Pocket Change | Price: $1.00
 
 <p align="center">
 <img src ="images/1404.png">
@@ -249,7 +249,7 @@
 |$100.00 | 0.01814%|
 |$500.00 | 0.00070%|
 
-### Money Bags
+### Money Bags | Price: $2.00
 
 <p align="center">
 <img src ="images/1405.png">
@@ -270,7 +270,7 @@
 |$1,000.00 | 0.00040%|
 |$20,000.00 | 0.00008%|
 
-### Money Vault
+### Money Vault | Price: $3.00
 
 <p align="center">
 <img src ="images/1406.png">
@@ -292,7 +292,7 @@
 |$1,000.00 | 0.00129%|
 |$30,000.00 | 0.00005%|
 
-### $5,000,000 Fortune
+### $5,000,000 Fortune | Price: $30.00
 
 <p align="center">
 <img src ="images/1407.png">
@@ -315,7 +315,7 @@
 |$50,000.00 | 0.00012%|
 |$3,625,000.00 | 0.00003%|
 
-### $500 Money Madness
+### $500 Money Madness | Price: $5.00
 
 <p align="center">
 <img src ="images/1408.png">
@@ -334,7 +334,7 @@
 |$500.00 | 0.13373%|
 |$200,000.00 | 0.00006%|
 
-### Loteria
+### Loteria | Price: $3.00
 
 <p align="center">
 <img src ="images/1409.png">
@@ -356,7 +356,7 @@
 |$500.00 | 0.01590%|
 |$30,000.00 | 0.00007%|
 
-### Spring $50s
+### Spring $50s | Price: $2.00
 
 <p align="center">
 <img src ="images/1410.png">
@@ -377,7 +377,7 @@
 |$1,000.00 | 0.00048%|
 |$20,000.00 | 0.00006%|
 
-### Black and Gold
+### Black and Gold | Price: $5.00
 
 <p align="center">
 <img src ="images/1411.png">
@@ -398,7 +398,7 @@
 |$5,000.00 | 0.00058%|
 |$200,000.00 | 0.00003%|
 
-### Super Crossword
+### Super Crossword | Price: $5.00
 
 <p align="center">
 <img src ="images/1412.png">
@@ -419,7 +419,7 @@
 |$7,500.00 | 0.00029%|
 |$50,000.00 | 0.00011%|
 
-### Mega Crossword
+### Mega Crossword | Price: $20.00
 
 <p align="center">
 <img src ="images/1413.png">
@@ -442,7 +442,7 @@
 |$50,000.00 | 0.00063%|
 |$500,000.00 | 0.00013%|
 
-### Hot Spot Bingo
+### Hot Spot Bingo | Price: $5.00
 
 <p align="center">
 <img src ="images/1414.png">
@@ -465,7 +465,7 @@
 |$30,000.00 | 0.00005%|
 |$100,000.00 | 0.00007%|
 
-### $250,000 Crossword
+### $250,000 Crossword | Price: $10.00
 
 <p align="center">
 <img src ="images/1415.png">
@@ -489,7 +489,7 @@
 |$20,000.00 | 0.00027%|
 |$250,000.00 | 0.00016%|
 
-### Lucky Catch
+### Lucky Catch | Price: $2.00
 
 <p align="center">
 <img src ="images/1416.png">
@@ -510,7 +510,7 @@
 |$2,000.00 | 0.00050%|
 |$20,000.00 | 0.00007%|
 
-### Lady Luck
+### Lady Luck | Price: $5.00
 
 <p align="center">
 <img src ="images/1417.png">
@@ -532,7 +532,7 @@
 |$5,000.00 | 0.00047%|
 |$250,000.00 | 0.00005%|
 
-### $250,000 Crossword
+### $250,000 Crossword | Price: $10.00
 
 <p align="center">
 <img src ="images/1418.png">
@@ -556,7 +556,7 @@
 |$20,000.00 | 0.00028%|
 |$250,000.00 | 0.00017%|
 
-### Big Money Spectacular
+### Big Money Spectacular | Price: $2.00
 
 <p align="center">
 <img src ="images/1419.png">
@@ -581,7 +581,7 @@
 |$5,000.00 | 0.00002%|
 |$30,000.00 | 0.00004%|
 
-### Win For Life
+### Win For Life | Price: $3.00
 
 <p align="center">
 <img src ="images/1420.png">
@@ -604,7 +604,7 @@
 |$5,000.00 | 0.00013%|
 |$1,380,000.00 | 0.00002%|
 
-### Super Crossword
+### Super Crossword | Price: $5.00
 
 <p align="center">
 <img src ="images/1421.png">
@@ -625,7 +625,7 @@
 |$7,500.00 | 0.00029%|
 |$50,000.00 | 0.00009%|
 
-### 100X The Bucks
+### 100X The Bucks | Price: $20.00
 
 <p align="center">
 <img src ="images/1422.png">
@@ -646,7 +646,7 @@
 |$10,000.00 | 0.00091%|
 |$1,458,000.00 | 0.00004%|
 
-### Double $$
+### Double $$ | Price: $1.00
 
 <p align="center">
 <img src ="images/1423.png">
@@ -666,7 +666,7 @@
 |$500.00 | 0.00110%|
 |$2,000.00 | 0.00006%|
 
-### Liberty Bill$
+### Liberty Bill$ | Price: $2.00
 
 <p align="center">
 <img src ="images/1424.png">
@@ -686,7 +686,7 @@
 |$1,500.00 | 0.00048%|
 |$20,000.00 | 0.00007%|
 
-### All Cash Club
+### All Cash Club | Price: $5.00
 
 <p align="center">
 <img src ="images/1425.png">
@@ -704,7 +704,7 @@
 |$200.00 | 0.06194%|
 |$250.00 | 0.04128%|
 
-### Birthday Surprise
+### Birthday Surprise | Price: $2.00
 
 <p align="center">
 <img src ="images/1426.png">
@@ -726,7 +726,7 @@
 |$1,000.00 | 0.00054%|
 |$25,000.00 | 0.00008%|
 
-### Super Crossword
+### Super Crossword | Price: $5.00
 
 <p align="center">
 <img src ="images/1427.png">
@@ -747,7 +747,7 @@
 |$7,500.00 | 0.00025%|
 |$50,000.00 | 0.00009%|
 
-### Cash In A Flash
+### Cash In A Flash | Price: $10.00
 
 <p align="center">
 <img src ="images/1428.png">
@@ -764,7 +764,7 @@
 |$200.00 | 0.24232%|
 |$500.00 | 0.04832%|
 
-### Double Match
+### Double Match | Price: $2.00
 
 <p align="center">
 <img src ="images/1429.png">
@@ -786,7 +786,7 @@
 |$2,000.00 | 0.00032%|
 |$20,000.00 | 0.00008%|
 
-### Power Play Crossword
+### Power Play Crossword | Price: $3.00
 
 <p align="center">
 <img src ="images/1430.png">
@@ -814,7 +814,7 @@
 |$5,000.00 | 0.00032%|
 |$30,000.00 | 0.00011%|
 
-### Super Casino
+### Super Casino | Price: $5.00
 
 <p align="center">
 <img src ="images/1431.png">
@@ -834,7 +834,7 @@
 |$2,000.00 | 0.00494%|
 |$150,000.00 | 0.00005%|
 
-### $500,000 Riches
+### $500,000 Riches | Price: $10.00
 
 <p align="center">
 <img src ="images/1432.png">
@@ -855,7 +855,7 @@
 |$5,000.00 | 0.00100%|
 |$500,000.00 | 0.00005%|
 
-### Big Money Spectacular
+### Big Money Spectacular | Price: $2.00
 
 <p align="center">
 <img src ="images/1433.png">
@@ -880,7 +880,7 @@
 |$5,000.00 | 0.00002%|
 |$30,000.00 | 0.00004%|
 
-### Instant Bingo
+### Instant Bingo | Price: $2.00
 
 <p align="center">
 <img src ="images/1434.png">
@@ -905,7 +905,7 @@
 |$1,000.00 | 0.00018%|
 |$15,000.00 | 0.00017%|
 
-### Sizzlin Hot 7s
+### Sizzlin Hot 7s | Price: $2.00
 
 <p align="center">
 <img src ="images/1435.png">
@@ -926,7 +926,7 @@
 |$500.00 | 0.00282%|
 |$17,777.00 | 0.00004%|
 
-### High Card Poker
+### High Card Poker | Price: $5.00
 
 <p align="center">
 <img src ="images/1436.png">
@@ -945,7 +945,7 @@
 |$2,500.00 | 0.00002%|
 |$150,000.00 | 0.00000%|
 
-### $200 Million Cash Bonanza
+### $200 Million Cash Bonanza | Price: $30.00
 
 <p align="center">
 <img src ="images/1437.png">
@@ -966,7 +966,7 @@
 |$50,000.00 | 0.00006%|
 |$3,679,200.00 | 0.00002%|
 
-### Crossword
+### Crossword | Price: $3.00
 
 <p align="center">
 <img src ="images/1438.png">
@@ -984,7 +984,7 @@
 |$5,000.00 | 0.00013%|
 |$20,000.00 | 0.00013%|
 
-### Pocket Change
+### Pocket Change | Price: $1.00
 
 <p align="center">
 <img src ="images/1439.png">
@@ -1002,7 +1002,7 @@
 |$100.00 | 0.01827%|
 |$500.00 | 0.00066%|
 
-### Instant Bingo
+### Instant Bingo | Price: $2.00
 
 <p align="center">
 <img src ="images/1440.png">
@@ -1027,7 +1027,7 @@
 |$1,000.00 | 0.00018%|
 |$15,000.00 | 0.00013%|
 
-### 5x The Bucks
+### 5x The Bucks | Price: $1.00
 
 <p align="center">
 <img src ="images/1441.png">
@@ -1049,7 +1049,7 @@
 |$500.00 | 0.00078%|
 |$10,000.00 | 0.00010%|
 
-### 10x The Bucks
+### 10x The Bucks | Price: $2.00
 
 <p align="center">
 <img src ="images/1442.png">
@@ -1069,7 +1069,7 @@
 |$1,000.00 | 0.00074%|
 |$20,000.00 | 0.00005%|
 
-### 20x The Bucks
+### 20x The Bucks | Price: $5.00
 
 <p align="center">
 <img src ="images/1443.png">
@@ -1090,7 +1090,7 @@
 |$5,000.00 | 0.00158%|
 |$200,000.00 | 0.00007%|
 
-### 50x The Bucks
+### 50x The Bucks | Price: $10.00
 
 <p align="center">
 <img src ="images/1444.png">
@@ -1110,7 +1110,7 @@
 |$10,000.00 | 0.00020%|
 |$737,400.00 | 0.00001%|
 
-### Hit $100!
+### Hit $100! | Price: $2.00
 
 <p align="center">
 <img src ="images/1445.png">
@@ -1130,7 +1130,7 @@
 |$1,000.00 | 0.00108%|
 |$20,000.00 | 0.00006%|
 
-### Diamonds and Dollars
+### Diamonds and Dollars | Price: $5.00
 
 <p align="center">
 <img src ="images/1446.png">
@@ -1151,7 +1151,7 @@
 |$10,000.00 | 0.00043%|
 |$200,000.00 | 0.00005%|
 
-### Cash Bash
+### Cash Bash | Price: $10.00
 
 <p align="center">
 <img src ="images/1447.png">
@@ -1168,7 +1168,7 @@
 |$200.00 | 0.22788%|
 |$500.00 | 0.04593%|
 
-### Crossword
+### Crossword | Price: $3.00
 
 <p align="center">
 <img src ="images/1448.png">
@@ -1186,7 +1186,7 @@
 |$5,000.00 | 0.00015%|
 |$20,000.00 | 0.00014%|
 
-### Holiday Sparkle
+### Holiday Sparkle | Price: $1.00
 
 <p align="center">
 <img src ="images/1449.png">
@@ -1206,7 +1206,7 @@
 |$500.00 | 0.00067%|
 |$2,000.00 | 0.00009%|
 
-### Holiday Lucky Times 10
+### Holiday Lucky Times 10 | Price: $2.00
 
 <p align="center">
 <img src ="images/1450.png">
@@ -1227,7 +1227,7 @@
 |$1,000.00 | 0.00036%|
 |$20,000.00 | 0.00010%|
 
-### Holiday Spectacular
+### Holiday Spectacular | Price: $5.00
 
 <p align="center">
 <img src ="images/1451.png">
@@ -1246,7 +1246,7 @@
 |$5,000.00 | 0.00069%|
 |$200,000.00 | 0.00005%|
 
-### $10,000 Bonus
+### $10,000 Bonus | Price: $10.00
 
 <p align="center">
 <img src ="images/1452.png">
@@ -1266,7 +1266,7 @@
 |$5,000.00 | 0.00115%|
 |$10,000.00 | 0.00334%|
 
-### $250,000 Crossword
+### $250,000 Crossword | Price: $10.00
 
 <p align="center">
 <img src ="images/1453.png">
@@ -1290,7 +1290,7 @@
 |$20,000.00 | 0.00028%|
 |$250,000.00 | 0.00011%|
 
-### $150,000 Poker
+### $150,000 Poker | Price: $5.00
 
 <p align="center">
 <img src ="images/1455.png">
@@ -1309,7 +1309,7 @@
 |$2,500.00 | 0.00119%|
 |$150,000.00 | 0.00007%|
 
-### Double Win
+### Double Win | Price: $3.00
 
 <p align="center">
 <img src ="images/1456.png">
@@ -1335,7 +1335,7 @@
 |$1,000.00 | 0.00049%|
 |$20,000.00 | 0.00008%|
 
-### 7
+### 7 | Price: $5.00
 
 <p align="center">
 <img src ="images/1457.png">
@@ -1356,7 +1356,7 @@
 |$10,000.00 | 0.00075%|
 |$200,000.00 | 0.00006%|
 
-### $250,000 Crossword
+### $250,000 Crossword | Price: $10.00
 
 <p align="center">
 <img src ="images/1458.png">
@@ -1380,7 +1380,7 @@
 |$20,000.00 | 0.00027%|
 |$250,000.00 | 0.00016%|
 
-### Instant Cash Millionaire
+### Instant Cash Millionaire | Price: $20.00
 
 <p align="center">
 <img src ="images/1459.png">
@@ -1402,7 +1402,7 @@
 |$50,000.00 | 0.00008%|
 |$1,000,000.00 | 0.00003%|
 
-### Big Money Spectacular
+### Big Money Spectacular | Price: $2.00
 
 <p align="center">
 <img src ="images/1460.png">
@@ -1427,7 +1427,7 @@
 |$5,000.00 | 0.00003%|
 |$30,000.00 | 0.00002%|
 
-### Mega Crossword
+### Mega Crossword | Price: $20.00
 
 <p align="center">
 <img src ="images/1461.png">
@@ -1450,7 +1450,7 @@
 |$50,000.00 | 0.00054%|
 |$500,000.00 | 0.00009%|
 
-### Big Money Spectacular
+### Big Money Spectacular | Price: $2.00
 
 <p align="center">
 <img src ="images/1462.png">
@@ -1475,7 +1475,7 @@
 |$5,000.00 | 0.00003%|
 |$30,000.00 | 0.00003%|
 
-### $1,000,000 Spectacular
+### $1,000,000 Spectacular | Price: $10.00
 
 <p align="center">
 <img src ="images/1463.png">
@@ -1497,7 +1497,7 @@
 |$10,000.00 | 0.00036%|
 |$752,300.00 | 0.00002%|
 
-### Loose Change
+### Loose Change | Price: $1.00
 
 <p align="center">
 <img src ="images/1464.png">
@@ -1515,7 +1515,7 @@
 |$100.00 | 0.01717%|
 |$500.00 | 0.00067%|
 
-### Love To Win Doubler
+### Love To Win Doubler | Price: $2.00
 
 <p align="center">
 <img src ="images/1465.png">
@@ -1536,7 +1536,7 @@
 |$1,000.00 | 0.00036%|
 |$20,000.00 | 0.00007%|
 
-### $500 Frenzy
+### $500 Frenzy | Price: $5.00
 
 <p align="center">
 <img src ="images/1466.png">
@@ -1556,7 +1556,7 @@
 |$500.00 | 0.13364%|
 |$200,000.00 | 0.00007%|
 
-### $20,000 Gold Rush
+### $20,000 Gold Rush | Price: $2.00
 
 <p align="center">
 <img src ="images/1468.png">
@@ -1575,7 +1575,7 @@
 |$1,000.00 | 0.00075%|
 |$20,000.00 | 0.00008%|
 
-### $200,000 Gold Rush
+### $200,000 Gold Rush | Price: $5.00
 
 <p align="center">
 <img src ="images/1469.png">
@@ -1596,7 +1596,7 @@
 |$5,000.00 | 0.00048%|
 |$200,000.00 | 0.00005%|
 
-### $1,000,000 Gold Rush
+### $1,000,000 Gold Rush | Price: $10.00
 
 <p align="center">
 <img src ="images/1470.png">
@@ -1617,7 +1617,7 @@
 |$10,000.00 | 0.00011%|
 |$752,300.00 | 0.00004%|
 
-### Blackout Bingo
+### Blackout Bingo | Price: $3.00
 
 <p align="center">
 <img src ="images/1471.png">
@@ -1645,7 +1645,7 @@
 |$1,000.00 | 0.00121%|
 |$20,000.00 | 0.00011%|
 
-### Super Crossword
+### Super Crossword | Price: $5.00
 
 <p align="center">
 <img src ="images/1472.png">
@@ -1666,7 +1666,7 @@
 |$7,500.00 | 0.00029%|
 |$50,000.00 | 0.00011%|
 
-### $250,000 Crossword
+### $250,000 Crossword | Price: $10.00
 
 <p align="center">
 <img src ="images/1473.png">
@@ -1690,7 +1690,7 @@
 |$20,000.00 | 0.00027%|
 |$250,000.00 | 0.00016%|
 
-### Backstage Pass To Cash
+### Backstage Pass To Cash | Price: $2.00
 
 <p align="center">
 <img src ="images/1474.png">
@@ -1712,7 +1712,7 @@
 |$3,500.00 | 0.00006%|
 |$20,000.00 | 0.00002%|
 
-### Lucky Times 20
+### Lucky Times 20 | Price: $5.00
 
 <p align="center">
 <img src ="images/1475.png">
@@ -1734,7 +1734,7 @@
 |$5,000.00 | 0.00066%|
 |$200,000.00 | 0.00005%|
 
-### Dazzling Diamond Spectacular
+### Dazzling Diamond Spectacular | Price: $20.00
 
 <p align="center">
 <img src ="images/1476.png">
@@ -1754,7 +1754,7 @@
 |$10,000.00 | 0.00115%|
 |$1,472,200.00 | 0.00003%|
 
-### Super Crossword
+### Super Crossword | Price: $5.00
 
 <p align="center">
 <img src ="images/1477.png">
@@ -1775,7 +1775,7 @@
 |$7,500.00 | 0.00029%|
 |$50,000.00 | 0.00011%|
 
-### $250,000 Crossword
+### $250,000 Crossword | Price: $10.00
 
 <p align="center">
 <img src ="images/1478.png">
@@ -1799,7 +1799,7 @@
 |$20,000.00 | 0.00028%|
 |$250,000.00 | 0.00017%|
 
-### Fast Money
+### Fast Money | Price: $2.00
 
 <p align="center">
 <img src ="images/1479.png">
@@ -1819,7 +1819,7 @@
 |$1,000.00 | 0.00070%|
 |$20,000.00 | 0.00004%|
 
-### Loteria
+### Loteria | Price: $3.00
 
 <p align="center">
 <img src ="images/1480.png">
@@ -1841,7 +1841,7 @@
 |$500.00 | 0.01542%|
 |$30,000.00 | 0.00004%|
 
-### High Card Poker
+### High Card Poker | Price: $5.00
 
 <p align="center">
 <img src ="images/1481.png">
@@ -1860,7 +1860,7 @@
 |$2,500.00 | 0.00073%|
 |$150,000.00 | 0.00006%|
 
-### Jersey Cash Blowout
+### Jersey Cash Blowout | Price: $10.00
 
 <p align="center">
 <img src ="images/1482.png">
@@ -1872,7 +1872,7 @@
 |$50.00 | 4.97749%|
 |$100.00 | 2.49346%|
 
-### Pink Diamond Bingo
+### Pink Diamond Bingo | Price: $5.00
 
 <p align="center">
 <img src ="images/1483.png">
@@ -1895,7 +1895,7 @@
 |$30,000.00 | 0.00006%|
 |$100,000.00 | 0.00002%|
 
-### Ruby Red Riches
+### Ruby Red Riches | Price: $5.00
 
 <p align="center">
 <img src ="images/1484.png">
@@ -1915,7 +1915,7 @@
 |$5,000.00 | 0.00042%|
 |$200,000.00 | 0.00005%|
 
-### $5,000,000 Lucky 7s
+### $5,000,000 Lucky 7s | Price: $30.00
 
 <p align="center">
 <img src ="images/1485.png">
@@ -1936,7 +1936,7 @@
 |$70,000.00 | 0.00009%|
 |$3,654,400.00 | 0.00001%|
 
-### Big Money Spectacular
+### Big Money Spectacular | Price: $2.00
 
 <p align="center">
 <img src ="images/1486.png">
@@ -1961,7 +1961,7 @@
 |$5,000.00 | 0.00003%|
 |$30,000.00 | 0.00004%|
 
-### Summer Lucky Times 10
+### Summer Lucky Times 10 | Price: $2.00
 
 <p align="center">
 <img src ="images/1487.png">
@@ -1982,7 +1982,7 @@
 |$1,000.00 | 0.00039%|
 |$20,000.00 | 0.00009%|
 
-### Wild Time Multiplier
+### Wild Time Multiplier | Price: $5.00
 
 <p align="center">
 <img src ="images/1488.png">
@@ -2002,7 +2002,7 @@
 |$2,500.00 | 0.00320%|
 |$150,000.00 | 0.00005%|
 
-### Hot Riches
+### Hot Riches | Price: $10.00
 
 <p align="center">
 <img src ="images/1489.png">
@@ -2024,7 +2024,7 @@
 |$10,000.00 | 0.00016%|
 |$500,000.00 | 0.00007%|
 
-### Big Money Spectacular
+### Big Money Spectacular | Price: $2.00
 
 <p align="center">
 <img src ="images/1490.png">
@@ -2049,7 +2049,7 @@
 |$5,000.00 | 0.00003%|
 |$30,000.00 | 0.00003%|
 
-### Win For Life
+### Win For Life | Price: $3.00
 
 <p align="center">
 <img src ="images/1491.png">
@@ -2072,7 +2072,7 @@
 |$5,000.00 | 0.00012%|
 |$1,100,000.00 | 0.00002%|
 
-### Million Dollar Multiplier
+### Million Dollar Multiplier | Price: $10.00
 
 <p align="center">
 <img src ="images/1492.png">
@@ -2091,7 +2091,7 @@
 |$5,000.00 | 0.00024%|
 |$711,700.00 | 0.00004%|
 
-### $250,000 Crossword
+### $250,000 Crossword | Price: $10.00
 
 <p align="center">
 <img src ="images/1493.png">
@@ -2115,7 +2115,7 @@
 |$20,000.00 | 0.00027%|
 |$250,000.00 | 0.00016%|
 
-### Loose Change
+### Loose Change | Price: $1.00
 
 <p align="center">
 <img src ="images/1494.png">
@@ -2133,7 +2133,7 @@
 |$100.00 | 0.01775%|
 |$500.00 | 0.00073%|
 
-### Crossword
+### Crossword | Price: $3.00
 
 <p align="center">
 <img src ="images/1495.png">
@@ -2151,7 +2151,7 @@
 |$5,000.00 | 0.00016%|
 |$20,000.00 | 0.00014%|
 
-### Super Tic Tac Toe
+### Super Tic Tac Toe | Price: $3.00
 
 <p align="center">
 <img src ="images/1496.png">
@@ -2173,7 +2173,7 @@
 |$1,000.00 | 0.00306%|
 |$30,000.00 | 0.00006%|
 
-### Lady Luck Bonus
+### Lady Luck Bonus | Price: $5.00
 
 <p align="center">
 <img src ="images/1497.png">
@@ -2194,7 +2194,7 @@
 |$5,000.00 | 0.00048%|
 |$200,000.00 | 0.00004%|
 
-### $250,000 Crossword
+### $250,000 Crossword | Price: $10.00
 
 <p align="center">
 <img src ="images/1498.png">
@@ -2218,7 +2218,7 @@
 |$20,000.00 | 0.00027%|
 |$250,000.00 | 0.00011%|
 
-### Crossword
+### Crossword | Price: $3.00
 
 <p align="center">
 <img src ="images/1499.png">
@@ -2236,7 +2236,7 @@
 |$5,000.00 | 0.00007%|
 |$20,000.00 | 0.00006%|
 
-### Money Roll
+### Money Roll | Price: $2.00
 
 <p align="center">
 <img src ="images/1500.png">
@@ -2256,7 +2256,7 @@
 |$1,000.00 | 0.00026%|
 |$20,000.00 | 0.00008%|
 
-### Bingo Times 10
+### Bingo Times 10 | Price: $5.00
 
 <p align="center">
 <img src ="images/1501.png">
@@ -2280,7 +2280,7 @@
 |$50,000.00 | 0.00009%|
 |$100,000.00 | 0.00007%|
 
-### Money Match
+### Money Match | Price: $5.00
 
 <p align="center">
 <img src ="images/1502.png">
@@ -2301,7 +2301,7 @@
 |$5,000.00 | 0.00029%|
 |$200,000.00 | 0.00002%|
 
-### $20,000 Lucky 7s
+### $20,000 Lucky 7s | Price: $2.00
 
 <p align="center">
 <img src ="images/1503.png">
@@ -2321,7 +2321,7 @@
 |$1,000.00 | 0.00143%|
 |$20,000.00 | 0.00004%|
 
-### $200,000 Lucky 7s
+### $200,000 Lucky 7s | Price: $5.00
 
 <p align="center">
 <img src ="images/1504.png">
@@ -2341,7 +2341,7 @@
 |$5,000.00 | 0.00064%|
 |$200,000.00 | 0.00003%|
 
-### $1,000,000 Lucky 7s
+### $1,000,000 Lucky 7s | Price: $10.00
 
 <p align="center">
 <img src ="images/1505.png">
@@ -2361,7 +2361,7 @@
 |$10,000.00 | 0.00025%|
 |$720,100.00 | 0.00000%|
 
-### $2,000,000 Lucky 7s
+### $2,000,000 Lucky 7s | Price: $20.00
 
 <p align="center">
 <img src ="images/1506.png">
@@ -2380,7 +2380,7 @@
 |$10,000.00 | 0.00028%|
 |$1,440,100.00 | 0.00001%|
 
-### Loose Change
+### Loose Change | Price: $1.00
 
 <p align="center">
 <img src ="images/1507.png">
@@ -2398,7 +2398,7 @@
 |$100.00 | 0.01759%|
 |$500.00 | 0.00075%|
 
-### Bingo Plus
+### Bingo Plus | Price: $3.00
 
 <p align="center">
 <img src ="images/1508.png">
@@ -2423,7 +2423,7 @@
 |$1,000.00 | 0.00090%|
 |$20,000.00 | 0.00010%|
 
-### Super Crossword
+### Super Crossword | Price: $5.00
 
 <p align="center">
 <img src ="images/1509.png">
@@ -2444,7 +2444,7 @@
 |$7,500.00 | 0.00027%|
 |$50,000.00 | 0.00011%|
 
-### The Voice
+### The Voice | Price: $5.00
 
 <p align="center">
 <img src ="images/1510.png">
@@ -2464,7 +2464,7 @@
 |$2,000.00 | 0.00097%|
 |$100,000.00 | 0.00002%|
 
-### Loose Change
+### Loose Change | Price: $1.00
 
 <p align="center">
 <img src ="images/1511.png">
@@ -2482,7 +2482,7 @@
 |$100.00 | 0.01690%|
 |$500.00 | 0.00075%|
 
-### $500 Frenzy
+### $500 Frenzy | Price: $5.00
 
 <p align="center">
 <img src ="images/1512.png">
@@ -2502,7 +2502,7 @@
 |$500.00 | 0.11768%|
 |$200,000.00 | 0.00004%|
 
-### Cash Blast
+### Cash Blast | Price: $10.00
 
 <p align="center">
 <img src ="images/1513.png">
@@ -2519,7 +2519,7 @@
 |$200.00 | 0.17703%|
 |$500.00 | 0.03543%|
 
-### Holiday Loose Change
+### Holiday Loose Change | Price: $1.00
 
 <p align="center">
 <img src ="images/1514.png">
@@ -2537,7 +2537,7 @@
 |$100.00 | 0.01656%|
 |$500.00 | 0.00071%|
 
-### Holiday Lucky Times 10
+### Holiday Lucky Times 10 | Price: $2.00
 
 <p align="center">
 <img src ="images/1515.png">
@@ -2558,7 +2558,7 @@
 |$1,000.00 | 0.00030%|
 |$20,000.00 | 0.00008%|
 
-### Holiday Bucks
+### Holiday Bucks | Price: $5.00
 
 <p align="center">
 <img src ="images/1516.png">
@@ -2577,7 +2577,7 @@
 |$5,000.00 | 0.00055%|
 |$200,000.00 | 0.00006%|
 
-### $1,000,000 Spectacular
+### $1,000,000 Spectacular | Price: $10.00
 
 <p align="center">
 <img src ="images/1517.png">
@@ -2598,7 +2598,7 @@
 |$10,000.00 | 0.00023%|
 |$752,300.00 | 0.00000%|
 
-### Fast Cash
+### Fast Cash | Price: $2.00
 
 <p align="center">
 <img src ="images/1518.png">
@@ -2618,7 +2618,7 @@
 |$1,000.00 | 0.00054%|
 |$20,000.00 | 0.00004%|
 
-### $3,000,000 Cash Out
+### $3,000,000 Cash Out | Price: $25.00
 
 <p align="center">
 <img src ="images/1519.png">
@@ -2638,7 +2638,7 @@
 |$50,000.00 | 0.00003%|
 |$2,158,000.00 | 0.00001%|
 
-### Money Multiplier
+### Money Multiplier | Price: $2.00
 
 <p align="center">
 <img src ="images/1520.png">
@@ -2657,7 +2657,7 @@
 |$1,000.00 | 0.00034%|
 |$20,000.00 | 0.00002%|
 
-### Loose Change
+### Loose Change | Price: $1.00
 
 <p align="center">
 <img src ="images/1521.png">
@@ -2675,7 +2675,7 @@
 |$100.00 | 0.01565%|
 |$500.00 | 0.00060%|
 
-### Diamonds and Dollars
+### Diamonds and Dollars | Price: $5.00
 
 <p align="center">
 <img src ="images/1522.png">
@@ -2696,7 +2696,7 @@
 |$10,000.00 | 0.00008%|
 |$200,000.00 | 0.00000%|
 
-### $150K Poker Riches
+### $150K Poker Riches | Price: $5.00
 
 <p align="center">
 <img src ="images/1523.png">
@@ -2715,7 +2715,7 @@
 |$2,500.00 | 0.00028%|
 |$150,000.00 | 0.00002%|
 
-### Birthday Surprise
+### Birthday Surprise | Price: $2.00
 
 <p align="center">
 <img src ="images/1524.png">
@@ -2737,7 +2737,7 @@
 |$1,000.00 | 0.00019%|
 |$25,000.00 | 0.00003%|
 
-### Loteria
+### Loteria | Price: $3.00
 
 <p align="center">
 <img src ="images/1525.png">
@@ -2759,7 +2759,7 @@
 |$500.00 | 0.01053%|
 |$30,000.00 | 0.00004%|
 
-### Super Crossword
+### Super Crossword | Price: $5.00
 
 <p align="center">
 <img src ="images/1526.png">
@@ -2780,7 +2780,7 @@
 |$7,500.00 | 0.00009%|
 |$50,000.00 | 0.00000%|
 
-### Mega Crossword
+### Mega Crossword | Price: $20.00
 
 <p align="center">
 <img src ="images/1527.png">
@@ -2803,7 +2803,7 @@
 |$50,000.00 | 0.00000%|
 |$500,000.00 | 0.00000%|
 
-### $250,000 Crossword
+### $250,000 Crossword | Price: $10.00
 
 <p align="center">
 <img src ="images/1528.png">
@@ -2827,7 +2827,7 @@
 |$20,000.00 | 0.00022%|
 |$250,000.00 | 0.00016%|
 
-### Win For Life!
+### Win For Life! | Price: $3.00
 
 <p align="center">
 <img src ="images/1529.png">
@@ -2850,7 +2850,7 @@
 |$5,000.00 | 0.00000%|
 |$1,060,000.00 | 0.00000%|
 
-### $8,000,000 Copper Payout
+### $8,000,000 Copper Payout | Price: $2.00
 
 <p align="center">
 <img src ="images/1530.png">
@@ -2869,7 +2869,7 @@
 |$500.00 | 0.00062%|
 |$20,000.00 | 0.00000%|
 
-### $18,000,000 Silver Payout
+### $18,000,000 Silver Payout | Price: $5.00
 
 <p align="center">
 <img src ="images/1531.png">
@@ -2888,7 +2888,7 @@
 |$5,000.00 | 0.00005%|
 |$200,000.00 | 0.00000%|
 
-### $52,000,000 Gold Payout
+### $52,000,000 Gold Payout | Price: $10.00
 
 <p align="center">
 <img src ="images/1532.png">
@@ -2908,7 +2908,7 @@
 |$10,000.00 | 0.00002%|
 |$713,400.00 | 0.00000%|
 
-### $90,000,000 Platinum Payout
+### $90,000,000 Platinum Payout | Price: $20.00
 
 <p align="center">
 <img src ="images/1533.png">
@@ -2929,7 +2929,7 @@
 |$50,000.00 | 0.00000%|
 |$1,426,800.00 | 0.00000%|
 
-### Quick $50s
+### Quick $50s | Price: $2.00
 
 <p align="center">
 <img src ="images/1534.png">
@@ -2948,7 +2948,7 @@
 |$1,000.00 | 0.00025%|
 |$20,000.00 | 0.00004%|
 
-### Super Money Multiplier
+### Super Money Multiplier | Price: $5.00
 
 <p align="center">
 <img src ="images/1535.png">
@@ -2967,7 +2967,7 @@
 |$5,000.00 | 0.00000%|
 |$100,000.00 | 0.00000%|
 
-### Lucky Times 50
+### Lucky Times 50 | Price: $10.00
 
 <p align="center">
 <img src ="images/1536.png">
@@ -2986,7 +2986,7 @@
 |$10,000.00 | 0.00000%|
 |$695,900.00 | 0.00000%|
 
-### Bingo Bonus Square
+### Bingo Bonus Square | Price: $5.00
 
 <p align="center">
 <img src ="images/1538.png">
@@ -3009,7 +3009,7 @@
 |$30,000.00 | 0.00000%|
 |$100,000.00 | 0.00000%|
 
-### Big Money Spectacular
+### Big Money Spectacular | Price: $2.00
 
 <p align="center">
 <img src ="images/1539.png">
@@ -3034,7 +3034,7 @@
 |$5,000.00 | 0.00002%|
 |$30,000.00 | 0.00001%|
 
-### Money Roll
+### Money Roll | Price: $2.00
 
 <p align="center">
 <img src ="images/1541.png">
@@ -3054,7 +3054,7 @@
 |$1,000.00 | 0.00000%|
 |$20,000.00 | 0.00000%|
 
-### $250,000 Crossword
+### $250,000 Crossword | Price: $10.00
 
 <p align="center">
 <img src ="images/1542.png">
@@ -3078,7 +3078,7 @@
 |$20,000.00 | 0.00000%|
 |$250,000.00 | 0.00005%|
 
-### Double Dollar Bingo
+### Double Dollar Bingo | Price: $3.00
 
 <p align="center">
 <img src ="images/1544.png">
@@ -3105,7 +3105,7 @@
 |$1,000.00 | 0.00000%|
 |$20,000.00 | 0.00000%|
 
-### $500 Frenzy
+### $500 Frenzy | Price: $5.00
 
 <p align="center">
 <img src ="images/1545.png">
@@ -3125,7 +3125,7 @@
 |$500.00 | 0.00000%|
 |$200,000.00 | 0.00000%|
 
-### Loose Change
+### Loose Change | Price: $1.00
 
 <p align="center">
 <img src ="images/1546.png">
@@ -3143,7 +3143,7 @@
 |$100.00 | 0.00159%|
 |$500.00 | 0.00006%|
 
-### Fast Money
+### Fast Money | Price: $2.00
 
 <p align="center">
 <img src ="images/1548.png">
