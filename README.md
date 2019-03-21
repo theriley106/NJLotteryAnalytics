@@ -61,7 +61,8 @@ Stats Table of contents
 =================
 
 <!--ts-->
-- [Scratch Off Statistics](#scratch-off-statistics)
+
+	[Scratch Off Statistics](#scratch-off-statistics)
 		+ [All Cash Millions](#all-cash-millions---2000)
 		+ [Platinum Diamond Spectacular](#platinum-diamond-spectacular---2000)
 		+ [$1,000,000 Spectacular](#-1-000-000-spectacular---1000)
