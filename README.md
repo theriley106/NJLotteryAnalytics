@@ -1,3 +1,53 @@
+## API
+
+To easily calculate the statistics in this repo, I made a REST API that allows you to "Simulate" the purchase of a New Jersey scratch off ticket.  After running *app.py*, you can send a GET request with the path of /api/<gameID> to "purchase" a ticket and see the result after scratching it off.
+
+### Example
+
+```bash
+curl http://127.0.0.1:8000/api/1325
+```
+
+Returns:
+
+```javascript
+{
+  "info": null,
+  "number": 3668652,
+  "success": true,
+  "ticketsLeft": 5561769,
+  "time": 1553128312,
+  "winning": false
+}
+```
+
+### Example #2
+
+```bash
+curl http://127.0.0.1:8000/api/1546
+```
+
+Returns:
+
+```javascript
+{
+    "info": {
+        "claimedTickets": 2,
+        "winningTickets": 824339,
+        "paidTickets": 56983,
+        "originalTierNumber": 1,
+        "tierType": 1,
+        "tierNumber": 1,
+        "prizeDescription": "$1",
+        "prizeAmount": 100
+    },
+    "success": true,
+    "number": 465418,
+    "winning": true,
+    "time": 1553128378,
+    "ticketsLeft": 6869592
+}
+```
 
 <h3 align="center">All Cash Millions</h3>
 <p align="center">
