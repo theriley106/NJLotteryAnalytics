@@ -296,11 +296,9 @@ Lottery Ticket Table of Contents
 |$10,000.00 | 0.00202%|
 
 </td><td>
-
-| <p align="center">
+<p align="center">
 <img src ="images/1385.png">
-</p> |
-
+</p>
 </td></tr> </table>
 
 
