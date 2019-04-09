@@ -279,11 +279,11 @@ Lottery Ticket Table of Contents
 
 
 
+<table>
+<tr><td>
+
 |Prize|% Chance|
 | ------------- |:-------------:|
-| | <p align="center">
-<img src ="images/1385.png">
-</p> |
 |$10.00 | 10.04808%|
 |$20.00 | 5.79100%|
 |$30.00 | 2.90056%|
@@ -294,6 +294,16 @@ Lottery Ticket Table of Contents
 |$1,000.00 | 0.00181%|
 |$5,000.00 | 0.00192%|
 |$10,000.00 | 0.00202%|
+
+</td><td>
+
+| <p align="center">
+<img src ="images/1385.png">
+</p> |
+
+</td></tr> </table>
+
+
 
 ## Multiplier Mania - $10.00
 
