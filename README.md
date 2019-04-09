@@ -277,9 +277,8 @@ Lottery Ticket Table of Contents
 ## $10K Blowout - $10.00
 
 
-
-<p align="center">
-<table>
+<center>
+<table align="center">
 <tr><td>
 
 |Prize|% Chance|
@@ -300,14 +299,13 @@ Lottery Ticket Table of Contents
 <img src ="images/1385.png">
 </p>
 </td></tr> </table>
-</p>
-
 
 ## Multiplier Mania - $10.00
 
 <p align="center">
 <img src ="images/1390.png">
 </p>
+</center>
 
 
 |Prize|% Chance|
