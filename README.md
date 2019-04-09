@@ -278,7 +278,7 @@ Lottery Ticket Table of Contents
 
 
 
-
+<p align="center">
 <table>
 <tr><td>
 
@@ -300,7 +300,7 @@ Lottery Ticket Table of Contents
 <img src ="images/1385.png">
 </p>
 </td></tr> </table>
-
+</p>
 
 
 ## Multiplier Mania - $10.00
