@@ -211,10 +211,8 @@ Lottery Ticket Table of Contents
 
 ## All Cash Millions - $20.00
 
-<p align="center">
-<img src ="images/1325.png">
-</p>
-
+<table>
+<tr><td>
 
 |Prize|% Chance|
 | ------------- |:-------------:|
@@ -230,6 +228,17 @@ Lottery Ticket Table of Contents
 |$10,000.00 | 0.00162%|
 |$50,000.00 | 0.00027%|
 |$1,000,000.00 | 0.00005%|
+
+</td><td>
+
+<p align="center">
+<img src ="images/1325.png">
+</p>
+
+</td></tr> </table>
+
+
+
 
 ## Platinum Diamond Spectacular - $20.00
 
