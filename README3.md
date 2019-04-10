@@ -1,5 +1,5 @@
 
-## $5,000,000 Fortune - $30.00 - 28.3850306925
+## 1 | $5,000,000 Fortune - $30.00
 
 <table>
 <tr><td>
@@ -28,7 +28,7 @@
 </td></tr> </table>
 
 
-## Platinum Diamond Spectacular - $20.00 - 28.0280411893
+## 2 | Platinum Diamond Spectacular - $20.00
 
 <table>
 <tr><td>
@@ -55,7 +55,7 @@
 </td></tr> </table>
 
 
-## 100X The Bucks - $20.00 - 27.1085981222
+## 3 | 100X The Bucks - $20.00
 
 <table>
 <tr><td>
@@ -82,7 +82,7 @@
 </td></tr> </table>
 
 
-## All Cash Millions - $20.00 - 26.9944047495
+## 4 | All Cash Millions - $20.00
 
 <table>
 <tr><td>
@@ -110,7 +110,7 @@
 </td></tr> </table>
 
 
-## Mega Crossword - $20.00 - 26.2366239774
+## 5 | Mega Crossword - $20.00
 
 <table>
 <tr><td>
@@ -139,7 +139,7 @@
 </td></tr> </table>
 
 
-## Mega Crossword - $20.00 - 25.768947127
+## 6 | Mega Crossword - $20.00
 
 <table>
 <tr><td>
@@ -168,7 +168,7 @@
 </td></tr> </table>
 
 
-## Multiplier Mania - $10.00 - 24.8156663375
+## 7 | Multiplier Mania - $10.00
 
 <table>
 <tr><td>
@@ -194,7 +194,7 @@
 </td></tr> </table>
 
 
-## Lucky 7s Multiplier - $10.00 - 24.7303200965
+## 8 | Lucky 7s Multiplier - $10.00
 
 <table>
 <tr><td>
@@ -223,7 +223,7 @@
 </td></tr> </table>
 
 
-## $1,000,000 Spectacular - $10.00 - 23.3482211077
+## 9 | $1,000,000 Spectacular - $10.00
 
 <table>
 <tr><td>
@@ -251,7 +251,7 @@
 </td></tr> </table>
 
 
-## Lady Luck - $5.00 - 23.068660572
+## 10 | Lady Luck - $5.00
 
 <table>
 <tr><td>
@@ -279,7 +279,7 @@
 </td></tr> </table>
 
 
-## $250,000 Crossword - $10.00 - 23.0554105492
+## 11 | $250,000 Crossword - $10.00
 
 <table>
 <tr><td>
@@ -309,7 +309,7 @@
 </td></tr> </table>
 
 
-## $250,000 Crossword - $10.00 - 23.033427762
+## 12 | $250,000 Crossword - $10.00
 
 <table>
 <tr><td>
@@ -339,7 +339,7 @@
 </td></tr> </table>
 
 
-## $250,000 Crossword - $10.00 - 22.9686707461
+## 13 | $250,000 Crossword - $10.00
 
 <table>
 <tr><td>
@@ -369,7 +369,7 @@
 </td></tr> </table>
 
 
-## $250,000 Crossword - $10.00 - 22.9452752853
+## 14 | $250,000 Crossword - $10.00
 
 <table>
 <tr><td>
@@ -399,7 +399,7 @@
 </td></tr> </table>
 
 
-## $250,000 Crossword - $10.00 - 22.7643421393
+## 15 | $250,000 Crossword - $10.00
 
 <table>
 <tr><td>
@@ -429,7 +429,7 @@
 </td></tr> </table>
 
 
-## $250,000 Crossword - $10.00 - 22.7269587926
+## 16 | $250,000 Crossword - $10.00
 
 <table>
 <tr><td>
@@ -459,7 +459,7 @@
 </td></tr> </table>
 
 
-## $250,000 Crossword - $10.00 - 22.7126833286
+## 17 | $250,000 Crossword - $10.00
 
 <table>
 <tr><td>
@@ -489,7 +489,7 @@
 </td></tr> </table>
 
 
-## $250,000 Crossword - $10.00 - 22.688172043
+## 18 | $250,000 Crossword - $10.00
 
 <table>
 <tr><td>
@@ -519,7 +519,7 @@
 </td></tr> </table>
 
 
-## Hot Riches - $10.00 - 22.6829132806
+## 19 | Hot Riches - $10.00
 
 <table>
 <tr><td>
@@ -547,7 +547,7 @@
 </td></tr> </table>
 
 
-## 20x The Bucks - $5.00 - 22.5807723393
+## 20 | 20x The Bucks - $5.00
 
 <table>
 <tr><td>
@@ -574,7 +574,7 @@
 </td></tr> </table>
 
 
-## Instant Bingo - $2.00 - 22.5112202255
+## 21 | Instant Bingo - $2.00
 
 <table>
 <tr><td>
@@ -605,7 +605,7 @@
 </td></tr> </table>
 
 
-## Loteria - $3.00 - 22.5011961938
+## 22 | Loteria - $3.00
 
 <table>
 <tr><td>
@@ -633,7 +633,7 @@
 </td></tr> </table>
 
 
-## Lucky 7s Tripler - $5.00 - 22.4974674937
+## 23 | Lucky 7s Tripler - $5.00
 
 <table>
 <tr><td>
@@ -661,7 +661,7 @@
 </td></tr> </table>
 
 
-## $1,000,000 Spectacular - $10.00 - 22.4532961237
+## 24 | $1,000,000 Spectacular - $10.00
 
 <table>
 <tr><td>
@@ -689,7 +689,7 @@
 </td></tr> </table>
 
 
-## Million Dollar Multiplier - $10.00 - 22.4431140875
+## 25 | Million Dollar Multiplier - $10.00
 
 <table>
 <tr><td>
@@ -714,7 +714,7 @@
 </td></tr> </table>
 
 
-## Instant Bingo - $2.00 - 22.4152043877
+## 26 | Instant Bingo - $2.00
 
 <table>
 <tr><td>
@@ -745,7 +745,7 @@
 </td></tr> </table>
 
 
-## Loteria - $3.00 - 22.3550254218
+## 27 | Loteria - $3.00
 
 <table>
 <tr><td>
@@ -773,7 +773,7 @@
 </td></tr> </table>
 
 
-## $250,000 Crossword - $10.00 - 22.0947421285
+## 28 | $250,000 Crossword - $10.00
 
 <table>
 <tr><td>
@@ -803,7 +803,7 @@
 </td></tr> </table>
 
 
-## 50x The Bucks - $10.00 - 21.9537663899
+## 29 | 50x The Bucks - $10.00
 
 <table>
 <tr><td>
@@ -829,7 +829,7 @@
 </td></tr> </table>
 
 
-## Hot Spot Bingo - $5.00 - 21.9513397069
+## 30 | Hot Spot Bingo - $5.00
 
 <table>
 <tr><td>
@@ -858,7 +858,7 @@
 </td></tr> </table>
 
 
-## Loteria - $3.00 - 21.932257777
+## 31 | Loteria - $3.00
 
 <table>
 <tr><td>
@@ -886,7 +886,7 @@
 </td></tr> </table>
 
 
-## $150,000 Poker - $5.00 - 21.7893184074
+## 32 | $150,000 Poker - $5.00
 
 <table>
 <tr><td>
@@ -911,7 +911,7 @@
 </td></tr> </table>
 
 
-## 7 - $5.00 - 21.6905514813
+## 33 | 7 - $5.00
 
 <table>
 <tr><td>
@@ -938,7 +938,7 @@
 </td></tr> </table>
 
 
-## $10K Blowout - $10.00 - 21.6446380943
+## 34 | $10K Blowout - $10.00
 
 <table>
 <tr><td>
@@ -964,7 +964,7 @@
 </td></tr> </table>
 
 
-## Lucky Times 20 - $5.00 - 21.4670776431
+## 35 | Lucky Times 20 - $5.00
 
 <table>
 <tr><td>
@@ -992,7 +992,7 @@
 </td></tr> </table>
 
 
-## Super Crossword - $5.00 - 21.3331319213
+## 36 | Super Crossword - $5.00
 
 <table>
 <tr><td>
@@ -1019,7 +1019,7 @@
 </td></tr> </table>
 
 
-## Pink Diamond Bingo - $5.00 - 21.3324310439
+## 37 | Pink Diamond Bingo - $5.00
 
 <table>
 <tr><td>
@@ -1048,7 +1048,7 @@
 </td></tr> </table>
 
 
-## Super Crossword - $5.00 - 21.2906955834
+## 38 | Super Crossword - $5.00
 
 <table>
 <tr><td>
@@ -1075,7 +1075,7 @@
 </td></tr> </table>
 
 
-## $10,000 Bonus - $10.00 - 21.2622234647
+## 39 | $10,000 Bonus - $10.00
 
 <table>
 <tr><td>
@@ -1101,7 +1101,7 @@
 </td></tr> </table>
 
 
-## Super Crossword - $5.00 - 21.2305711131
+## 40 | Super Crossword - $5.00
 
 <table>
 <tr><td>
@@ -1128,7 +1128,7 @@
 </td></tr> </table>
 
 
-## Super Crossword - $5.00 - 21.1660353467
+## 41 | Super Crossword - $5.00
 
 <table>
 <tr><td>
@@ -1155,7 +1155,7 @@
 </td></tr> </table>
 
 
-## Super Crossword - $5.00 - 21.1129574679
+## 42 | Super Crossword - $5.00
 
 <table>
 <tr><td>
@@ -1182,7 +1182,7 @@
 </td></tr> </table>
 
 
-## Super Crossword - $5.00 - 20.9952549519
+## 43 | Super Crossword - $5.00
 
 <table>
 <tr><td>
@@ -1209,7 +1209,7 @@
 </td></tr> </table>
 
 
-## Money Bags - $2.00 - 20.9537888948
+## 44 | Money Bags - $2.00
 
 <table>
 <tr><td>
@@ -1236,7 +1236,7 @@
 </td></tr> </table>
 
 
-## Holiday Spectacular - $5.00 - 20.5622225153
+## 45 | Holiday Spectacular - $5.00
 
 <table>
 <tr><td>
@@ -1261,7 +1261,7 @@
 </td></tr> </table>
 
 
-## Summer Lucky Times 10 - $2.00 - 20.5557276113
+## 46 | Summer Lucky Times 10 - $2.00
 
 <table>
 <tr><td>
@@ -1288,7 +1288,7 @@
 </td></tr> </table>
 
 
-## $500 Frenzy - $5.00 - 20.5189398184
+## 47 | $500 Frenzy - $5.00
 
 <table>
 <tr><td>
@@ -1314,7 +1314,7 @@
 </td></tr> </table>
 
 
-## Money Vault - $3.00 - 20.4706267494
+## 48 | Money Vault - $3.00
 
 <table>
 <tr><td>
@@ -1342,7 +1342,7 @@
 </td></tr> </table>
 
 
-## High Card Poker - $5.00 - 20.4617043243
+## 49 | High Card Poker - $5.00
 
 <table>
 <tr><td>
@@ -1367,7 +1367,7 @@
 </td></tr> </table>
 
 
-## Double Win - $3.00 - 20.4596632732
+## 50 | Double Win - $3.00
 
 <table>
 <tr><td>
@@ -1399,7 +1399,7 @@
 </td></tr> </table>
 
 
-## $500 Money Madness - $5.00 - 20.4554089964
+## 51 | $500 Money Madness - $5.00
 
 <table>
 <tr><td>
@@ -1424,7 +1424,7 @@
 </td></tr> </table>
 
 
-## Love To Win Doubler - $2.00 - 20.3128805175
+## 52 | Love To Win Doubler - $2.00
 
 <table>
 <tr><td>
@@ -1451,7 +1451,7 @@
 </td></tr> </table>
 
 
-## Fast Money - $2.00 - 20.1779352059
+## 53 | Fast Money - $2.00
 
 <table>
 <tr><td>
@@ -1477,7 +1477,7 @@
 </td></tr> </table>
 
 
-## Diamonds and Dollars - $5.00 - 20.1776234383
+## 54 | Diamonds and Dollars - $5.00
 
 <table>
 <tr><td>
@@ -1504,7 +1504,7 @@
 </td></tr> </table>
 
 
-## Big Money Spectacular - $2.00 - 19.9406354743
+## 55 | Big Money Spectacular - $2.00
 
 <table>
 <tr><td>
@@ -1535,7 +1535,7 @@
 </td></tr> </table>
 
 
-## Big Money Spectacular - $2.00 - 19.9345594691
+## 56 | Big Money Spectacular - $2.00
 
 <table>
 <tr><td>
@@ -1566,7 +1566,7 @@
 </td></tr> </table>
 
 
-## Big Money Spectacular - $2.00 - 19.8439937229
+## 57 | Big Money Spectacular - $2.00
 
 <table>
 <tr><td>
@@ -1597,7 +1597,7 @@
 </td></tr> </table>
 
 
-## Big Money Spectacular - $2.00 - 19.6445112992
+## 58 | Big Money Spectacular - $2.00
 
 <table>
 <tr><td>
@@ -1628,7 +1628,7 @@
 </td></tr> </table>
 
 
-## Big Money Spectacular - $2.00 - 19.6029521849
+## 59 | Big Money Spectacular - $2.00
 
 <table>
 <tr><td>
@@ -1659,7 +1659,7 @@
 </td></tr> </table>
 
 
-## Money Roll - $2.00 - 19.5857742702
+## 60 | Money Roll - $2.00
 
 <table>
 <tr><td>
@@ -1685,7 +1685,7 @@
 </td></tr> </table>
 
 
-## $20,000 Gold Rush - $2.00 - 19.5433753276
+## 61 | $20,000 Gold Rush - $2.00
 
 <table>
 <tr><td>
@@ -1710,7 +1710,7 @@
 </td></tr> </table>
 
 
-## $200,000 Gold Rush - $5.00 - 19.4772177961
+## 62 | $200,000 Gold Rush - $5.00
 
 <table>
 <tr><td>
@@ -1737,7 +1737,7 @@
 </td></tr> </table>
 
 
-## Power Play Crossword - $3.00 - 19.4202551318
+## 63 | Power Play Crossword - $3.00
 
 <table>
 <tr><td>
@@ -1771,7 +1771,7 @@
 </td></tr> </table>
 
 
-## Big Money Spectacular - $2.00 - 19.3295039817
+## 64 | Big Money Spectacular - $2.00
 
 <table>
 <tr><td>
@@ -1802,7 +1802,7 @@
 </td></tr> </table>
 
 
-## Holiday Lucky Times 10 - $2.00 - 19.2796226699
+## 65 | Holiday Lucky Times 10 - $2.00
 
 <table>
 <tr><td>
@@ -1829,7 +1829,7 @@
 </td></tr> </table>
 
 
-## Loose Change - $1.00 - 19.2716025592
+## 66 | Loose Change - $1.00
 
 <table>
 <tr><td>
@@ -1853,7 +1853,7 @@
 </td></tr> </table>
 
 
-## Hit $100! - $2.00 - 19.2144258692
+## 67 | Hit $100! - $2.00
 
 <table>
 <tr><td>
@@ -1879,7 +1879,7 @@
 </td></tr> </table>
 
 
-## Crossword - $3.00 - 19.2065595226
+## 68 | Crossword - $3.00
 
 <table>
 <tr><td>
@@ -1903,7 +1903,7 @@
 </td></tr> </table>
 
 
-## Loose Change - $1.00 - 19.1806181832
+## 69 | Loose Change - $1.00
 
 <table>
 <tr><td>
@@ -1927,7 +1927,7 @@
 </td></tr> </table>
 
 
-## Crossword - $3.00 - 19.1689782075
+## 70 | Crossword - $3.00
 
 <table>
 <tr><td>
@@ -1951,7 +1951,7 @@
 </td></tr> </table>
 
 
-## $500,000 Riches - $10.00 - 19.126335163
+## 71 | $500,000 Riches - $10.00
 
 <table>
 <tr><td>
@@ -1978,7 +1978,7 @@
 </td></tr> </table>
 
 
-## $20,000 Lucky 7s - $2.00 - 19.1157859377
+## 72 | $20,000 Lucky 7s - $2.00
 
 <table>
 <tr><td>
@@ -2004,7 +2004,7 @@
 </td></tr> </table>
 
 
-## Super Casino - $5.00 - 19.1156480932
+## 73 | Super Casino - $5.00
 
 <table>
 <tr><td>
@@ -2030,7 +2030,7 @@
 </td></tr> </table>
 
 
-## Holiday Bucks - $5.00 - 19.1052841277
+## 74 | Holiday Bucks - $5.00
 
 <table>
 <tr><td>
@@ -2055,7 +2055,7 @@
 </td></tr> </table>
 
 
-## $5,000,000 Lucky 7s - $30.00 - 19.0899165927
+## 75 | $5,000,000 Lucky 7s - $30.00
 
 <table>
 <tr><td>
@@ -2082,7 +2082,7 @@
 </td></tr> </table>
 
 
-## Crossword - $3.00 - 19.0844591256
+## 76 | Crossword - $3.00
 
 <table>
 <tr><td>
@@ -2106,7 +2106,7 @@
 </td></tr> </table>
 
 
-## Pocket Change - $1.00 - 19.0793078727
+## 77 | Pocket Change - $1.00
 
 <table>
 <tr><td>
@@ -2130,7 +2130,7 @@
 </td></tr> </table>
 
 
-## Crossword - $3.00 - 19.0425494487
+## 78 | Crossword - $3.00
 
 <table>
 <tr><td>
@@ -2154,7 +2154,7 @@
 </td></tr> </table>
 
 
-## 10x The Bucks - $2.00 - 19.0286781865
+## 79 | 10x The Bucks - $2.00
 
 <table>
 <tr><td>
@@ -2180,7 +2180,7 @@
 </td></tr> </table>
 
 
-## Liberty Bill$ - $2.00 - 18.9991057987
+## 80 | Liberty Bill$ - $2.00
 
 <table>
 <tr><td>
@@ -2206,7 +2206,7 @@
 </td></tr> </table>
 
 
-## Loose Change - $1.00 - 18.956267026
+## 81 | Loose Change - $1.00
 
 <table>
 <tr><td>
@@ -2230,7 +2230,7 @@
 </td></tr> </table>
 
 
-## Loose Change - $1.00 - 18.8691613997
+## 82 | Loose Change - $1.00
 
 <table>
 <tr><td>
@@ -2254,7 +2254,7 @@
 </td></tr> </table>
 
 
-## Sizzlin Hot 7s - $2.00 - 18.8115958801
+## 83 | Sizzlin Hot 7s - $2.00
 
 <table>
 <tr><td>
@@ -2281,7 +2281,7 @@
 </td></tr> </table>
 
 
-## Pocket Change - $1.00 - 18.7173963535
+## 84 | Pocket Change - $1.00
 
 <table>
 <tr><td>
@@ -2305,7 +2305,7 @@
 </td></tr> </table>
 
 
-## Double Match - $2.00 - 18.6949370811
+## 85 | Double Match - $2.00
 
 <table>
 <tr><td>
@@ -2333,7 +2333,7 @@
 </td></tr> </table>
 
 
-## Lucky 7s Doubler - $2.00 - 18.6765888362
+## 86 | Lucky 7s Doubler - $2.00
 
 <table>
 <tr><td>
@@ -2359,7 +2359,7 @@
 </td></tr> </table>
 
 
-## $200,000 Lucky 7s - $5.00 - 18.5233234085
+## 87 | $200,000 Lucky 7s - $5.00
 
 <table>
 <tr><td>
@@ -2385,7 +2385,7 @@
 </td></tr> </table>
 
 
-## Birthday Surprise - $2.00 - 18.2643944005
+## 88 | Birthday Surprise - $2.00
 
 <table>
 <tr><td>
@@ -2413,7 +2413,7 @@
 </td></tr> </table>
 
 
-## Spring $50s - $2.00 - 18.250127171
+## 89 | Spring $50s - $2.00
 
 <table>
 <tr><td>
@@ -2440,7 +2440,7 @@
 </td></tr> </table>
 
 
-## Birthday Surprise - $2.00 - 18.1199106962
+## 90 | Birthday Surprise - $2.00
 
 <table>
 <tr><td>
@@ -2468,7 +2468,7 @@
 </td></tr> </table>
 
 
-## Bingo Times 10 - $5.00 - 18.1028934427
+## 91 | Bingo Times 10 - $5.00
 
 <table>
 <tr><td>
@@ -2498,7 +2498,7 @@
 </td></tr> </table>
 
 
-## $500 Frenzy - $5.00 - 17.9516865001
+## 92 | $500 Frenzy - $5.00
 
 <table>
 <tr><td>
@@ -2524,7 +2524,7 @@
 </td></tr> </table>
 
 
-## 5x The Bucks - $1.00 - 17.8174097299
+## 93 | 5x The Bucks - $1.00
 
 <table>
 <tr><td>
@@ -2552,7 +2552,7 @@
 </td></tr> </table>
 
 
-## $200 Million Cash Bonanza - $30.00 - 17.811046058
+## 94 | $200 Million Cash Bonanza - $30.00
 
 <table>
 <tr><td>
@@ -2579,7 +2579,7 @@
 </td></tr> </table>
 
 
-## Black and Gold - $5.00 - 17.7626899132
+## 95 | Black and Gold - $5.00
 
 <table>
 <tr><td>
@@ -2606,7 +2606,7 @@
 </td></tr> </table>
 
 
-## Lucky Catch - $2.00 - 17.5911994322
+## 96 | Lucky Catch - $2.00
 
 <table>
 <tr><td>
@@ -2633,7 +2633,7 @@
 </td></tr> </table>
 
 
-## Holiday Lucky Times 10 - $2.00 - 17.3158626086
+## 97 | Holiday Lucky Times 10 - $2.00
 
 <table>
 <tr><td>
@@ -2660,7 +2660,7 @@
 </td></tr> </table>
 
 
-## Win For Life - $3.00 - 17.1850456101
+## 98 | Win For Life - $3.00
 
 <table>
 <tr><td>
@@ -2689,7 +2689,7 @@
 </td></tr> </table>
 
 
-## Backstage Pass To Cash - $2.00 - 17.0821706371
+## 99 | Backstage Pass To Cash - $2.00
 
 <table>
 <tr><td>
@@ -2717,7 +2717,7 @@
 </td></tr> </table>
 
 
-## Win For Life - $3.00 - 16.980255223
+## 100 | Win For Life - $3.00
 
 <table>
 <tr><td>
@@ -2746,7 +2746,7 @@
 </td></tr> </table>
 
 
-## Blackout Bingo - $3.00 - 16.9451716352
+## 101 | Blackout Bingo - $3.00
 
 <table>
 <tr><td>
@@ -2780,7 +2780,7 @@
 </td></tr> </table>
 
 
-## Holiday Loose Change - $1.00 - 16.9054768613
+## 102 | Holiday Loose Change - $1.00
 
 <table>
 <tr><td>
@@ -2804,7 +2804,7 @@
 </td></tr> </table>
 
 
-## $1,000,000 Lucky 7s - $10.00 - 16.7534547436
+## 103 | $1,000,000 Lucky 7s - $10.00
 
 <table>
 <tr><td>
@@ -2830,7 +2830,7 @@
 </td></tr> </table>
 
 
-## Holiday Sparkle - $1.00 - 16.5695907962
+## 104 | Holiday Sparkle - $1.00
 
 <table>
 <tr><td>
@@ -2856,7 +2856,7 @@
 </td></tr> </table>
 
 
-## Loose Change - $1.00 - 16.3795622642
+## 105 | Loose Change - $1.00
 
 <table>
 <tr><td>
@@ -2880,7 +2880,7 @@
 </td></tr> </table>
 
 
-## Double $$ - $1.00 - 16.1225260417
+## 106 | Double $$ - $1.00
 
 <table>
 <tr><td>
@@ -2906,7 +2906,7 @@
 </td></tr> </table>
 
 
-## Fast Cash - $2.00 - 16.0146458856
+## 107 | Fast Cash - $2.00
 
 <table>
 <tr><td>
@@ -2932,7 +2932,7 @@
 </td></tr> </table>
 
 
-## $1,000,000 Gold Rush - $10.00 - 15.8610511914
+## 108 | $1,000,000 Gold Rush - $10.00
 
 <table>
 <tr><td>
@@ -2959,7 +2959,7 @@
 </td></tr> </table>
 
 
-## Instant Cash Millionaire - $20.00 - 15.8275036307
+## 109 | Instant Cash Millionaire - $20.00
 
 <table>
 <tr><td>
@@ -2987,7 +2987,7 @@
 </td></tr> </table>
 
 
-## Super Tic Tac Toe - $3.00 - 15.7630973967
+## 110 | Super Tic Tac Toe - $3.00
 
 <table>
 <tr><td>
@@ -3015,7 +3015,7 @@
 </td></tr> </table>
 
 
-## Loteria - $3.00 - 15.4051112501
+## 111 | Loteria - $3.00
 
 <table>
 <tr><td>
@@ -3043,7 +3043,7 @@
 </td></tr> </table>
 
 
-## Lady Luck Bonus - $5.00 - 14.1700493407
+## 112 | Lady Luck Bonus - $5.00
 
 <table>
 <tr><td>
@@ -3070,7 +3070,7 @@
 </td></tr> </table>
 
 
-## Bingo Plus - $3.00 - 13.9991613497
+## 113 | Bingo Plus - $3.00
 
 <table>
 <tr><td>
@@ -3101,7 +3101,7 @@
 </td></tr> </table>
 
 
-## Ruby Red Riches - $5.00 - 13.9476692424
+## 114 | Ruby Red Riches - $5.00
 
 <table>
 <tr><td>
@@ -3127,7 +3127,7 @@
 </td></tr> </table>
 
 
-## Dazzling Diamond Spectacular - $20.00 - 13.7828508862
+## 115 | Dazzling Diamond Spectacular - $20.00
 
 <table>
 <tr><td>
@@ -3153,7 +3153,7 @@
 </td></tr> </table>
 
 
-## Wild Time Multiplier - $5.00 - 13.6829279697
+## 116 | Wild Time Multiplier - $5.00
 
 <table>
 <tr><td>
@@ -3179,7 +3179,7 @@
 </td></tr> </table>
 
 
-## Money Match - $5.00 - 13.5694319404
+## 117 | Money Match - $5.00
 
 <table>
 <tr><td>
@@ -3206,7 +3206,7 @@
 </td></tr> </table>
 
 
-## Cash In A Flash - $10.00 - 13.1835386671
+## 118 | Cash In A Flash - $10.00
 
 <table>
 <tr><td>
@@ -3229,7 +3229,7 @@
 </td></tr> </table>
 
 
-## All Cash Club - $5.00 - 12.5003745496
+## 119 | All Cash Club - $5.00
 
 <table>
 <tr><td>
@@ -3253,7 +3253,7 @@
 </td></tr> </table>
 
 
-## Quick $50s - $2.00 - 12.4120058254
+## 120 | Quick $50s - $2.00
 
 <table>
 <tr><td>
@@ -3278,7 +3278,7 @@
 </td></tr> </table>
 
 
-## Cash Bash - $10.00 - 12.4087359734
+## 121 | Cash Bash - $10.00
 
 <table>
 <tr><td>
@@ -3301,7 +3301,7 @@
 </td></tr> </table>
 
 
-## Money Multiplier - $2.00 - 12.2219254367
+## 122 | Money Multiplier - $2.00
 
 <table>
 <tr><td>
@@ -3326,7 +3326,7 @@
 </td></tr> </table>
 
 
-## Crossword - $3.00 - 11.9211142932
+## 123 | Crossword - $3.00
 
 <table>
 <tr><td>
@@ -3350,7 +3350,7 @@
 </td></tr> </table>
 
 
-## Super Crossword - $5.00 - 10.9523912347
+## 124 | Super Crossword - $5.00
 
 <table>
 <tr><td>
@@ -3377,7 +3377,7 @@
 </td></tr> </table>
 
 
-## $250,000 Crossword - $10.00 - 10.5456448776
+## 125 | $250,000 Crossword - $10.00
 
 <table>
 <tr><td>
@@ -3407,7 +3407,7 @@
 </td></tr> </table>
 
 
-## $150K Poker Riches - $5.00 - 10.2947757311
+## 126 | $150K Poker Riches - $5.00
 
 <table>
 <tr><td>
@@ -3432,7 +3432,7 @@
 </td></tr> </table>
 
 
-## $1,000,000 Spectacular - $10.00 - 10.0102292528
+## 127 | $1,000,000 Spectacular - $10.00
 
 <table>
 <tr><td>
@@ -3459,7 +3459,7 @@
 </td></tr> </table>
 
 
-## Cash Blast - $10.00 - 9.58119929148
+## 128 | Cash Blast - $10.00
 
 <table>
 <tr><td>
@@ -3482,7 +3482,7 @@
 </td></tr> </table>
 
 
-## $2,000,000 Lucky 7s - $20.00 - 9.09953124654
+## 129 | $2,000,000 Lucky 7s - $20.00
 
 <table>
 <tr><td>
@@ -3507,7 +3507,7 @@
 </td></tr> </table>
 
 
-## Big Money Spectacular - $2.00 - 8.27025108894
+## 130 | Big Money Spectacular - $2.00
 
 <table>
 <tr><td>
@@ -3538,7 +3538,7 @@
 </td></tr> </table>
 
 
-## Jersey Cash Blowout - $10.00 - 7.47095179901
+## 131 | Jersey Cash Blowout - $10.00
 
 <table>
 <tr><td>
@@ -3556,7 +3556,7 @@
 </td></tr> </table>
 
 
-## Birthday Surprise - $2.00 - 7.21959272038
+## 132 | Birthday Surprise - $2.00
 
 <table>
 <tr><td>
@@ -3584,7 +3584,7 @@
 </td></tr> </table>
 
 
-## Bingo Bonus Square - $5.00 - 6.18042064911
+## 133 | Bingo Bonus Square - $5.00
 
 <table>
 <tr><td>
@@ -3613,7 +3613,7 @@
 </td></tr> </table>
 
 
-## The Voice - $5.00 - 6.01871505667
+## 134 | The Voice - $5.00
 
 <table>
 <tr><td>
@@ -3639,7 +3639,7 @@
 </td></tr> </table>
 
 
-## $8,000,000 Copper Payout - $2.00 - 5.85474634235
+## 135 | $8,000,000 Copper Payout - $2.00
 
 <table>
 <tr><td>
@@ -3664,7 +3664,7 @@
 </td></tr> </table>
 
 
-## Diamonds and Dollars - $5.00 - 5.68567255723
+## 136 | Diamonds and Dollars - $5.00
 
 <table>
 <tr><td>
@@ -3691,7 +3691,7 @@
 </td></tr> </table>
 
 
-## $18,000,000 Silver Payout - $5.00 - 5.35319433597
+## 137 | $18,000,000 Silver Payout - $5.00
 
 <table>
 <tr><td>
@@ -3716,7 +3716,7 @@
 </td></tr> </table>
 
 
-## $3,000,000 Cash Out - $25.00 - 4.42873525147
+## 138 | $3,000,000 Cash Out - $25.00
 
 <table>
 <tr><td>
@@ -3742,7 +3742,7 @@
 </td></tr> </table>
 
 
-## $52,000,000 Gold Payout - $10.00 - 3.29696180556
+## 139 | $52,000,000 Gold Payout - $10.00
 
 <table>
 <tr><td>
@@ -3768,7 +3768,7 @@
 </td></tr> </table>
 
 
-## $90,000,000 Platinum Payout - $20.00 - 2.63864424153
+## 140 | $90,000,000 Platinum Payout - $20.00
 
 <table>
 <tr><td>
@@ -3795,7 +3795,7 @@
 </td></tr> </table>
 
 
-## Loose Change - $1.00 - 1.5542098521
+## 141 | Loose Change - $1.00
 
 <table>
 <tr><td>
@@ -3819,7 +3819,7 @@
 </td></tr> </table>
 
 
-## Money Roll - $2.00 - 1.47549777539
+## 142 | Money Roll - $2.00
 
 <table>
 <tr><td>
@@ -3845,7 +3845,7 @@
 </td></tr> </table>
 
 
-## Mega Crossword - $20.00 - 1.27551387415
+## 143 | Mega Crossword - $20.00
 
 <table>
 <tr><td>
@@ -3874,7 +3874,7 @@
 </td></tr> </table>
 
 
-## Super Money Multiplier - $5.00 - 1.24189422333
+## 144 | Super Money Multiplier - $5.00
 
 <table>
 <tr><td>
@@ -3899,7 +3899,7 @@
 </td></tr> </table>
 
 
-## High Card Poker - $5.00 - 1.11712404655
+## 145 | High Card Poker - $5.00
 
 <table>
 <tr><td>
@@ -3924,7 +3924,7 @@
 </td></tr> </table>
 
 
-## Win For Life! - $3.00 - 0.417070044357
+## 146 | Win For Life! - $3.00
 
 <table>
 <tr><td>
@@ -3953,7 +3953,7 @@
 </td></tr> </table>
 
 
-## Lucky Times 50 - $10.00 - 0.0
+## 147 | Lucky Times 50 - $10.00
 
 <table>
 <tr><td>
@@ -3978,7 +3978,7 @@
 </td></tr> </table>
 
 
-## Double Dollar Bingo - $3.00 - 0.0
+## 148 | Double Dollar Bingo - $3.00
 
 <table>
 <tr><td>
@@ -4011,7 +4011,7 @@
 </td></tr> </table>
 
 
-## $500 Frenzy - $5.00 - 0.0
+## 149 | $500 Frenzy - $5.00
 
 <table>
 <tr><td>
@@ -4037,7 +4037,7 @@
 </td></tr> </table>
 
 
-## Fast Money - $2.00 - 0.0
+## 150 | Fast Money - $2.00
 
 <table>
 <tr><td>
