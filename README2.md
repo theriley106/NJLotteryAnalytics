@@ -22,7 +22,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/All Cash Millions.png">
+	<img src ="images/1325.png">
 	</p>
 </td></tr> </table>
 
@@ -49,7 +49,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Platinum Diamond Spectacular.png">
+	<img src ="images/1364.png">
 	</p>
 </td></tr> </table>
 
@@ -77,7 +77,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/$1,000,000 Spectacular.png">
+	<img src ="images/1368.png">
 	</p>
 </td></tr> </table>
 
@@ -103,7 +103,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/$10K Blowout.png">
+	<img src ="images/1385.png">
 	</p>
 </td></tr> </table>
 
@@ -129,7 +129,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Multiplier Mania.png">
+	<img src ="images/1390.png">
 	</p>
 </td></tr> </table>
 
@@ -153,7 +153,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Crossword.png">
+	<img src ="images/1394.png">
 	</p>
 </td></tr> </table>
 
@@ -181,7 +181,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Birthday Surprise.png">
+	<img src ="images/1395.png">
 	</p>
 </td></tr> </table>
 
@@ -207,7 +207,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Lucky 7s Doubler.png">
+	<img src ="images/1398.png">
 	</p>
 </td></tr> </table>
 
@@ -235,7 +235,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Lucky 7s Tripler.png">
+	<img src ="images/1399.png">
 	</p>
 </td></tr> </table>
 
@@ -264,7 +264,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Lucky 7s Multiplier.png">
+	<img src ="images/1400.png">
 	</p>
 </td></tr> </table>
 
@@ -292,7 +292,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Loteria.png">
+	<img src ="images/1401.png">
 	</p>
 </td></tr> </table>
 
@@ -316,7 +316,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Pocket Change.png">
+	<img src ="images/1404.png">
 	</p>
 </td></tr> </table>
 
@@ -343,7 +343,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Money Bags.png">
+	<img src ="images/1405.png">
 	</p>
 </td></tr> </table>
 
@@ -371,7 +371,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Money Vault.png">
+	<img src ="images/1406.png">
 	</p>
 </td></tr> </table>
 
@@ -400,7 +400,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/$5,000,000 Fortune.png">
+	<img src ="images/1407.png">
 	</p>
 </td></tr> </table>
 
@@ -425,7 +425,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/$500 Money Madness.png">
+	<img src ="images/1408.png">
 	</p>
 </td></tr> </table>
 
@@ -453,7 +453,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Loteria.png">
+	<img src ="images/1409.png">
 	</p>
 </td></tr> </table>
 
@@ -480,7 +480,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Spring $50s.png">
+	<img src ="images/1410.png">
 	</p>
 </td></tr> </table>
 
@@ -507,7 +507,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Black and Gold.png">
+	<img src ="images/1411.png">
 	</p>
 </td></tr> </table>
 
@@ -534,7 +534,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Super Crossword.png">
+	<img src ="images/1412.png">
 	</p>
 </td></tr> </table>
 
@@ -563,7 +563,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Mega Crossword.png">
+	<img src ="images/1413.png">
 	</p>
 </td></tr> </table>
 
@@ -592,7 +592,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Hot Spot Bingo.png">
+	<img src ="images/1414.png">
 	</p>
 </td></tr> </table>
 
@@ -622,7 +622,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/$250,000 Crossword.png">
+	<img src ="images/1415.png">
 	</p>
 </td></tr> </table>
 
@@ -649,7 +649,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Lucky Catch.png">
+	<img src ="images/1416.png">
 	</p>
 </td></tr> </table>
 
@@ -677,7 +677,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Lady Luck.png">
+	<img src ="images/1417.png">
 	</p>
 </td></tr> </table>
 
@@ -707,7 +707,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/$250,000 Crossword.png">
+	<img src ="images/1418.png">
 	</p>
 </td></tr> </table>
 
@@ -738,7 +738,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Big Money Spectacular.png">
+	<img src ="images/1419.png">
 	</p>
 </td></tr> </table>
 
@@ -767,7 +767,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Win For Life.png">
+	<img src ="images/1420.png">
 	</p>
 </td></tr> </table>
 
@@ -794,7 +794,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Super Crossword.png">
+	<img src ="images/1421.png">
 	</p>
 </td></tr> </table>
 
@@ -821,7 +821,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/100X The Bucks.png">
+	<img src ="images/1422.png">
 	</p>
 </td></tr> </table>
 
@@ -847,7 +847,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Double $$.png">
+	<img src ="images/1423.png">
 	</p>
 </td></tr> </table>
 
@@ -873,7 +873,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Liberty Bill$.png">
+	<img src ="images/1424.png">
 	</p>
 </td></tr> </table>
 
@@ -897,7 +897,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/All Cash Club.png">
+	<img src ="images/1425.png">
 	</p>
 </td></tr> </table>
 
@@ -925,7 +925,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Birthday Surprise.png">
+	<img src ="images/1426.png">
 	</p>
 </td></tr> </table>
 
@@ -952,7 +952,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Super Crossword.png">
+	<img src ="images/1427.png">
 	</p>
 </td></tr> </table>
 
@@ -975,7 +975,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Cash In A Flash.png">
+	<img src ="images/1428.png">
 	</p>
 </td></tr> </table>
 
@@ -1003,7 +1003,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Double Match.png">
+	<img src ="images/1429.png">
 	</p>
 </td></tr> </table>
 
@@ -1037,7 +1037,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Power Play Crossword.png">
+	<img src ="images/1430.png">
 	</p>
 </td></tr> </table>
 
@@ -1063,7 +1063,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Super Casino.png">
+	<img src ="images/1431.png">
 	</p>
 </td></tr> </table>
 
@@ -1090,7 +1090,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/$500,000 Riches.png">
+	<img src ="images/1432.png">
 	</p>
 </td></tr> </table>
 
@@ -1121,7 +1121,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Big Money Spectacular.png">
+	<img src ="images/1433.png">
 	</p>
 </td></tr> </table>
 
@@ -1152,7 +1152,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Instant Bingo.png">
+	<img src ="images/1434.png">
 	</p>
 </td></tr> </table>
 
@@ -1179,7 +1179,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Sizzlin Hot 7s.png">
+	<img src ="images/1435.png">
 	</p>
 </td></tr> </table>
 
@@ -1204,7 +1204,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/High Card Poker.png">
+	<img src ="images/1436.png">
 	</p>
 </td></tr> </table>
 
@@ -1231,7 +1231,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/$200 Million Cash Bonanza.png">
+	<img src ="images/1437.png">
 	</p>
 </td></tr> </table>
 
@@ -1255,7 +1255,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Crossword.png">
+	<img src ="images/1438.png">
 	</p>
 </td></tr> </table>
 
@@ -1279,7 +1279,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Pocket Change.png">
+	<img src ="images/1439.png">
 	</p>
 </td></tr> </table>
 
@@ -1310,7 +1310,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Instant Bingo.png">
+	<img src ="images/1440.png">
 	</p>
 </td></tr> </table>
 
@@ -1338,7 +1338,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/5x The Bucks.png">
+	<img src ="images/1441.png">
 	</p>
 </td></tr> </table>
 
@@ -1364,7 +1364,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/10x The Bucks.png">
+	<img src ="images/1442.png">
 	</p>
 </td></tr> </table>
 
@@ -1391,7 +1391,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/20x The Bucks.png">
+	<img src ="images/1443.png">
 	</p>
 </td></tr> </table>
 
@@ -1417,7 +1417,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/50x The Bucks.png">
+	<img src ="images/1444.png">
 	</p>
 </td></tr> </table>
 
@@ -1443,7 +1443,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Hit $100!.png">
+	<img src ="images/1445.png">
 	</p>
 </td></tr> </table>
 
@@ -1470,7 +1470,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Diamonds and Dollars.png">
+	<img src ="images/1446.png">
 	</p>
 </td></tr> </table>
 
@@ -1493,7 +1493,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Cash Bash.png">
+	<img src ="images/1447.png">
 	</p>
 </td></tr> </table>
 
@@ -1517,7 +1517,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Crossword.png">
+	<img src ="images/1448.png">
 	</p>
 </td></tr> </table>
 
@@ -1543,7 +1543,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Holiday Sparkle.png">
+	<img src ="images/1449.png">
 	</p>
 </td></tr> </table>
 
@@ -1570,7 +1570,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Holiday Lucky Times 10.png">
+	<img src ="images/1450.png">
 	</p>
 </td></tr> </table>
 
@@ -1595,7 +1595,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Holiday Spectacular.png">
+	<img src ="images/1451.png">
 	</p>
 </td></tr> </table>
 
@@ -1621,7 +1621,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/$10,000 Bonus.png">
+	<img src ="images/1452.png">
 	</p>
 </td></tr> </table>
 
@@ -1651,7 +1651,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/$250,000 Crossword.png">
+	<img src ="images/1453.png">
 	</p>
 </td></tr> </table>
 
@@ -1676,7 +1676,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/$150,000 Poker.png">
+	<img src ="images/1455.png">
 	</p>
 </td></tr> </table>
 
@@ -1708,7 +1708,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Double Win.png">
+	<img src ="images/1456.png">
 	</p>
 </td></tr> </table>
 
@@ -1735,7 +1735,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/7.png">
+	<img src ="images/1457.png">
 	</p>
 </td></tr> </table>
 
@@ -1765,7 +1765,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/$250,000 Crossword.png">
+	<img src ="images/1458.png">
 	</p>
 </td></tr> </table>
 
@@ -1793,7 +1793,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Instant Cash Millionaire.png">
+	<img src ="images/1459.png">
 	</p>
 </td></tr> </table>
 
@@ -1824,7 +1824,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Big Money Spectacular.png">
+	<img src ="images/1460.png">
 	</p>
 </td></tr> </table>
 
@@ -1853,7 +1853,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Mega Crossword.png">
+	<img src ="images/1461.png">
 	</p>
 </td></tr> </table>
 
@@ -1884,7 +1884,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Big Money Spectacular.png">
+	<img src ="images/1462.png">
 	</p>
 </td></tr> </table>
 
@@ -1912,7 +1912,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/$1,000,000 Spectacular.png">
+	<img src ="images/1463.png">
 	</p>
 </td></tr> </table>
 
@@ -1936,7 +1936,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Loose Change.png">
+	<img src ="images/1464.png">
 	</p>
 </td></tr> </table>
 
@@ -1963,7 +1963,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Love To Win Doubler.png">
+	<img src ="images/1465.png">
 	</p>
 </td></tr> </table>
 
@@ -1989,7 +1989,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/$500 Frenzy.png">
+	<img src ="images/1466.png">
 	</p>
 </td></tr> </table>
 
@@ -2014,7 +2014,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/$20,000 Gold Rush.png">
+	<img src ="images/1468.png">
 	</p>
 </td></tr> </table>
 
@@ -2041,7 +2041,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/$200,000 Gold Rush.png">
+	<img src ="images/1469.png">
 	</p>
 </td></tr> </table>
 
@@ -2068,7 +2068,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/$1,000,000 Gold Rush.png">
+	<img src ="images/1470.png">
 	</p>
 </td></tr> </table>
 
@@ -2102,7 +2102,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Blackout Bingo.png">
+	<img src ="images/1471.png">
 	</p>
 </td></tr> </table>
 
@@ -2129,7 +2129,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Super Crossword.png">
+	<img src ="images/1472.png">
 	</p>
 </td></tr> </table>
 
@@ -2159,7 +2159,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/$250,000 Crossword.png">
+	<img src ="images/1473.png">
 	</p>
 </td></tr> </table>
 
@@ -2187,7 +2187,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Backstage Pass To Cash.png">
+	<img src ="images/1474.png">
 	</p>
 </td></tr> </table>
 
@@ -2215,7 +2215,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Lucky Times 20.png">
+	<img src ="images/1475.png">
 	</p>
 </td></tr> </table>
 
@@ -2241,7 +2241,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Dazzling Diamond Spectacular.png">
+	<img src ="images/1476.png">
 	</p>
 </td></tr> </table>
 
@@ -2268,7 +2268,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Super Crossword.png">
+	<img src ="images/1477.png">
 	</p>
 </td></tr> </table>
 
@@ -2298,7 +2298,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/$250,000 Crossword.png">
+	<img src ="images/1478.png">
 	</p>
 </td></tr> </table>
 
@@ -2324,7 +2324,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Fast Money.png">
+	<img src ="images/1479.png">
 	</p>
 </td></tr> </table>
 
@@ -2352,7 +2352,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Loteria.png">
+	<img src ="images/1480.png">
 	</p>
 </td></tr> </table>
 
@@ -2377,7 +2377,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/High Card Poker.png">
+	<img src ="images/1481.png">
 	</p>
 </td></tr> </table>
 
@@ -2395,7 +2395,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Jersey Cash Blowout.png">
+	<img src ="images/1482.png">
 	</p>
 </td></tr> </table>
 
@@ -2424,7 +2424,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Pink Diamond Bingo.png">
+	<img src ="images/1483.png">
 	</p>
 </td></tr> </table>
 
@@ -2450,7 +2450,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Ruby Red Riches.png">
+	<img src ="images/1484.png">
 	</p>
 </td></tr> </table>
 
@@ -2477,7 +2477,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/$5,000,000 Lucky 7s.png">
+	<img src ="images/1485.png">
 	</p>
 </td></tr> </table>
 
@@ -2508,7 +2508,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Big Money Spectacular.png">
+	<img src ="images/1486.png">
 	</p>
 </td></tr> </table>
 
@@ -2535,7 +2535,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Summer Lucky Times 10.png">
+	<img src ="images/1487.png">
 	</p>
 </td></tr> </table>
 
@@ -2561,7 +2561,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Wild Time Multiplier.png">
+	<img src ="images/1488.png">
 	</p>
 </td></tr> </table>
 
@@ -2589,7 +2589,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Hot Riches.png">
+	<img src ="images/1489.png">
 	</p>
 </td></tr> </table>
 
@@ -2620,7 +2620,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Big Money Spectacular.png">
+	<img src ="images/1490.png">
 	</p>
 </td></tr> </table>
 
@@ -2649,7 +2649,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Win For Life.png">
+	<img src ="images/1491.png">
 	</p>
 </td></tr> </table>
 
@@ -2674,7 +2674,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Million Dollar Multiplier.png">
+	<img src ="images/1492.png">
 	</p>
 </td></tr> </table>
 
@@ -2704,7 +2704,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/$250,000 Crossword.png">
+	<img src ="images/1493.png">
 	</p>
 </td></tr> </table>
 
@@ -2728,7 +2728,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Loose Change.png">
+	<img src ="images/1494.png">
 	</p>
 </td></tr> </table>
 
@@ -2752,7 +2752,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Crossword.png">
+	<img src ="images/1495.png">
 	</p>
 </td></tr> </table>
 
@@ -2780,7 +2780,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Super Tic Tac Toe.png">
+	<img src ="images/1496.png">
 	</p>
 </td></tr> </table>
 
@@ -2807,7 +2807,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Lady Luck Bonus.png">
+	<img src ="images/1497.png">
 	</p>
 </td></tr> </table>
 
@@ -2837,7 +2837,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/$250,000 Crossword.png">
+	<img src ="images/1498.png">
 	</p>
 </td></tr> </table>
 
@@ -2861,7 +2861,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Crossword.png">
+	<img src ="images/1499.png">
 	</p>
 </td></tr> </table>
 
@@ -2887,7 +2887,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Money Roll.png">
+	<img src ="images/1500.png">
 	</p>
 </td></tr> </table>
 
@@ -2917,7 +2917,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Bingo Times 10.png">
+	<img src ="images/1501.png">
 	</p>
 </td></tr> </table>
 
@@ -2944,7 +2944,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Money Match.png">
+	<img src ="images/1502.png">
 	</p>
 </td></tr> </table>
 
@@ -2970,7 +2970,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/$20,000 Lucky 7s.png">
+	<img src ="images/1503.png">
 	</p>
 </td></tr> </table>
 
@@ -2996,7 +2996,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/$200,000 Lucky 7s.png">
+	<img src ="images/1504.png">
 	</p>
 </td></tr> </table>
 
@@ -3022,7 +3022,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/$1,000,000 Lucky 7s.png">
+	<img src ="images/1505.png">
 	</p>
 </td></tr> </table>
 
@@ -3047,7 +3047,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/$2,000,000 Lucky 7s.png">
+	<img src ="images/1506.png">
 	</p>
 </td></tr> </table>
 
@@ -3071,7 +3071,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Loose Change.png">
+	<img src ="images/1507.png">
 	</p>
 </td></tr> </table>
 
@@ -3102,7 +3102,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Bingo Plus.png">
+	<img src ="images/1508.png">
 	</p>
 </td></tr> </table>
 
@@ -3129,7 +3129,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Super Crossword.png">
+	<img src ="images/1509.png">
 	</p>
 </td></tr> </table>
 
@@ -3155,7 +3155,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/The Voice.png">
+	<img src ="images/1510.png">
 	</p>
 </td></tr> </table>
 
@@ -3179,7 +3179,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Loose Change.png">
+	<img src ="images/1511.png">
 	</p>
 </td></tr> </table>
 
@@ -3205,7 +3205,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/$500 Frenzy.png">
+	<img src ="images/1512.png">
 	</p>
 </td></tr> </table>
 
@@ -3228,7 +3228,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Cash Blast.png">
+	<img src ="images/1513.png">
 	</p>
 </td></tr> </table>
 
@@ -3252,7 +3252,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Holiday Loose Change.png">
+	<img src ="images/1514.png">
 	</p>
 </td></tr> </table>
 
@@ -3279,7 +3279,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Holiday Lucky Times 10.png">
+	<img src ="images/1515.png">
 	</p>
 </td></tr> </table>
 
@@ -3304,7 +3304,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Holiday Bucks.png">
+	<img src ="images/1516.png">
 	</p>
 </td></tr> </table>
 
@@ -3331,7 +3331,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/$1,000,000 Spectacular.png">
+	<img src ="images/1517.png">
 	</p>
 </td></tr> </table>
 
@@ -3357,7 +3357,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Fast Cash.png">
+	<img src ="images/1518.png">
 	</p>
 </td></tr> </table>
 
@@ -3383,7 +3383,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/$3,000,000 Cash Out.png">
+	<img src ="images/1519.png">
 	</p>
 </td></tr> </table>
 
@@ -3408,7 +3408,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Money Multiplier.png">
+	<img src ="images/1520.png">
 	</p>
 </td></tr> </table>
 
@@ -3432,7 +3432,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Loose Change.png">
+	<img src ="images/1521.png">
 	</p>
 </td></tr> </table>
 
@@ -3459,7 +3459,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Diamonds and Dollars.png">
+	<img src ="images/1522.png">
 	</p>
 </td></tr> </table>
 
@@ -3484,7 +3484,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/$150K Poker Riches.png">
+	<img src ="images/1523.png">
 	</p>
 </td></tr> </table>
 
@@ -3512,7 +3512,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Birthday Surprise.png">
+	<img src ="images/1524.png">
 	</p>
 </td></tr> </table>
 
@@ -3540,7 +3540,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Loteria.png">
+	<img src ="images/1525.png">
 	</p>
 </td></tr> </table>
 
@@ -3567,7 +3567,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Super Crossword.png">
+	<img src ="images/1526.png">
 	</p>
 </td></tr> </table>
 
@@ -3596,7 +3596,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Mega Crossword.png">
+	<img src ="images/1527.png">
 	</p>
 </td></tr> </table>
 
@@ -3626,7 +3626,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/$250,000 Crossword.png">
+	<img src ="images/1528.png">
 	</p>
 </td></tr> </table>
 
@@ -3655,7 +3655,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Win For Life!.png">
+	<img src ="images/1529.png">
 	</p>
 </td></tr> </table>
 
@@ -3680,7 +3680,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/$8,000,000 Copper Payout.png">
+	<img src ="images/1530.png">
 	</p>
 </td></tr> </table>
 
@@ -3705,7 +3705,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/$18,000,000 Silver Payout.png">
+	<img src ="images/1531.png">
 	</p>
 </td></tr> </table>
 
@@ -3731,7 +3731,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/$52,000,000 Gold Payout.png">
+	<img src ="images/1532.png">
 	</p>
 </td></tr> </table>
 
@@ -3758,7 +3758,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/$90,000,000 Platinum Payout.png">
+	<img src ="images/1533.png">
 	</p>
 </td></tr> </table>
 
@@ -3783,7 +3783,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Quick $50s.png">
+	<img src ="images/1534.png">
 	</p>
 </td></tr> </table>
 
@@ -3808,7 +3808,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Super Money Multiplier.png">
+	<img src ="images/1535.png">
 	</p>
 </td></tr> </table>
 
@@ -3833,7 +3833,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Lucky Times 50.png">
+	<img src ="images/1536.png">
 	</p>
 </td></tr> </table>
 
@@ -3862,7 +3862,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Bingo Bonus Square.png">
+	<img src ="images/1538.png">
 	</p>
 </td></tr> </table>
 
@@ -3893,7 +3893,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Big Money Spectacular.png">
+	<img src ="images/1539.png">
 	</p>
 </td></tr> </table>
 
@@ -3919,7 +3919,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Money Roll.png">
+	<img src ="images/1541.png">
 	</p>
 </td></tr> </table>
 
@@ -3949,7 +3949,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/$250,000 Crossword.png">
+	<img src ="images/1542.png">
 	</p>
 </td></tr> </table>
 
@@ -3982,7 +3982,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Double Dollar Bingo.png">
+	<img src ="images/1544.png">
 	</p>
 </td></tr> </table>
 
@@ -4008,7 +4008,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/$500 Frenzy.png">
+	<img src ="images/1545.png">
 	</p>
 </td></tr> </table>
 
@@ -4032,7 +4032,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Loose Change.png">
+	<img src ="images/1546.png">
 	</p>
 </td></tr> </table>
 
@@ -4058,7 +4058,7 @@
 
 </td><td>
 <p align="center">
-	<img src ="images/Fast Money.png">
+	<img src ="images/1548.png">
 	</p>
 </td></tr> </table>
 
