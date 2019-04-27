@@ -1,3 +1,5 @@
+# NJ Lottery Analytics
+
 # API
 
 To easily calculate the statistics in this repo, I made a REST API that allows you to "Simulate" the purchase of a New Jersey scratch off ticket.  After running *app.py*, you can send a GET request with the path of /api/<gameID> to "purchase" a ticket and see the result after scratching it off.
